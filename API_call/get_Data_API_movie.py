@@ -60,7 +60,7 @@ async def get_more_informations(session, tmdb_movie_id):
         
         # Check if the movie status is "Released"
         if data.get("status", "").lower() != "released" or data.get("media_type", "").lower() != 'movie':
-            logger.warning(f"Movie with TMDb ID {tmdb_movie_id} is not released or not a film. Status: {data.get('status')}")
+            logger.warning(f"Movie with TMDb ID {tmdb_movie_id} is not released or not a film.")
             return {}
         
         logger.debug(f"TMDb Response for {tmdb_movie_id}: {data}")
