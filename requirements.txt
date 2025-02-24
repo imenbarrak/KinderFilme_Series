@@ -1,0 +1,39 @@
+python -m pip install "pymongo[srv]"==3.12
+install mongodb
+install mongosh # interaction with MongoDB from the commandLine
+install NoSQLBooster # to have a GUI simple to interact with the db
+mongodb://localhost:27017
+net start MongoDB # to star the service 
+mongosh --eval "db.runCommand({ ping: 1 })"   # test the installation 
+#open the NoSQLBooster and check the connection
+Filtered Movies:
+with_genres = 16, 10751, 12
+certification_lte = PG-13, G, PG
+limit=20
+page=1 # until the max 
+certification_country=US
+include_adult=false # erlaubt nur für Kinderfreundliche Filme
+API_tmdb: https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&with_genres=16,10751,12&include_adult=false&certification.lte=PG-13,G,PG"
+Zusätslische APIs:
+
+OMDb API:	IMDb-Bewertung, Kritiken, Produktionsbudget, Awards:	Verknüpfung über imdbID
+Wikipedia API:	Filmzusammenfassung, Produktionsstudio, Veröffentlichungsdatum:	Suche nach Filmtitel
+Google Trends API:	Beliebtheit eines Films über die Zeit	:Analyse von Suchtrends nach Filmtiteln
+
+pip instrall asyncio
+pip install asynchttp
+pip install wikipedia-api
+pip install wikipedia
+pip install pytrends
+
+pip install FastAPI
+pip install Dash  
+pip install flask
+pip install uvicorn
+
+pip install motor
+###############
+Common Sense Media:	Elternbewertungen, Empfehlungen für Kinder	:Web Scraping
+pip install selenium 
+all the information relted to reviewers are loaded dynamically 
+###########

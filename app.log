@@ -1,0 +1,1551 @@
+2025-02-21 21:18:55,079 - logger - INFO - Connected to MongoDB!
+2025-02-21 21:18:55,097 - logger - INFO - Found 239 movies to update.
+2025-02-21 21:18:55,097 - logger - WARNING - [Task 1] Movie 67b738b1cbb2ac9e5382f059 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,097 - logger - WARNING - [Task 2] Movie 67b738d3cbb2ac9e5382f0f8 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,097 - logger - WARNING - [Task 3] Movie 67b738ddcbb2ac9e5382f15a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,098 - logger - WARNING - [Task 4] Movie 67b738f1cbb2ac9e5382f1cb has no IMDb ID. Skipping.
+2025-02-21 21:18:55,098 - logger - WARNING - [Task 5] Movie 67b738f6cbb2ac9e5382f1e2 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,098 - logger - WARNING - [Task 6] Movie 67b73905cbb2ac9e5382f219 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,099 - logger - WARNING - [Task 7] Movie 67b7390ccbb2ac9e5382f265 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,099 - logger - WARNING - [Task 8] Movie 67b73918cbb2ac9e5382f283 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,100 - logger - WARNING - [Task 9] Movie 67b73918cbb2ac9e5382f293 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,100 - logger - WARNING - [Task 10] Movie 67b7391ecbb2ac9e5382f2a8 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,100 - logger - WARNING - [Task 11] Movie 67b7391ecbb2ac9e5382f2ad has no IMDb ID. Skipping.
+2025-02-21 21:18:55,100 - logger - WARNING - [Task 12] Movie 67b7391fcbb2ac9e5382f2c4 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,101 - logger - WARNING - [Task 13] Movie 67b7391fcbb2ac9e5382f2cc has no IMDb ID. Skipping.
+2025-02-21 21:18:55,101 - logger - WARNING - [Task 14] Movie 67b7392ccbb2ac9e5382f2d5 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,101 - logger - WARNING - [Task 15] Movie 67b7392ccbb2ac9e5382f2e8 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,102 - logger - WARNING - [Task 16] Movie 67b7392ccbb2ac9e5382f2fc has no IMDb ID. Skipping.
+2025-02-21 21:18:55,102 - logger - WARNING - [Task 17] Movie 67b7392ccbb2ac9e5382f2fe has no IMDb ID. Skipping.
+2025-02-21 21:18:55,102 - logger - WARNING - [Task 18] Movie 67b7392ccbb2ac9e5382f302 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,103 - logger - WARNING - [Task 19] Movie 67b7392ccbb2ac9e5382f30a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,103 - logger - WARNING - [Task 20] Movie 67b7392ccbb2ac9e5382f321 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,103 - logger - WARNING - [Task 21] Movie 67b7392ccbb2ac9e5382f32e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,103 - logger - WARNING - [Task 22] Movie 67b7393dcbb2ac9e5382f340 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,103 - logger - WARNING - [Task 23] Movie 67b7393dcbb2ac9e5382f349 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,104 - logger - WARNING - [Task 24] Movie 67b7393dcbb2ac9e5382f35b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,104 - logger - WARNING - [Task 25] Movie 67b7393dcbb2ac9e5382f361 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,104 - logger - WARNING - [Task 26] Movie 67b7393dcbb2ac9e5382f362 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,104 - logger - WARNING - [Task 27] Movie 67b7393dcbb2ac9e5382f36b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,105 - logger - WARNING - [Task 28] Movie 67b7393dcbb2ac9e5382f36f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,105 - logger - WARNING - [Task 29] Movie 67b7393dcbb2ac9e5382f370 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,105 - logger - WARNING - [Task 30] Movie 67b7393dcbb2ac9e5382f378 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,105 - logger - WARNING - [Task 31] Movie 67b7393dcbb2ac9e5382f37b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,105 - logger - WARNING - [Task 32] Movie 67b7393dcbb2ac9e5382f37e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,106 - logger - WARNING - [Task 33] Movie 67b7393dcbb2ac9e5382f383 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,106 - logger - WARNING - [Task 34] Movie 67b7393ecbb2ac9e5382f386 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,106 - logger - WARNING - [Task 35] Movie 67b7393ecbb2ac9e5382f391 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,106 - logger - WARNING - [Task 36] Movie 67b73951cbb2ac9e5382f39c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,107 - logger - WARNING - [Task 37] Movie 67b73951cbb2ac9e5382f39f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,107 - logger - WARNING - [Task 38] Movie 67b73951cbb2ac9e5382f3a3 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,108 - logger - WARNING - [Task 39] Movie 67b73951cbb2ac9e5382f3a4 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,108 - logger - WARNING - [Task 40] Movie 67b73951cbb2ac9e5382f3a7 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,108 - logger - WARNING - [Task 41] Movie 67b73951cbb2ac9e5382f3aa has no IMDb ID. Skipping.
+2025-02-21 21:18:55,108 - logger - WARNING - [Task 42] Movie 67b73952cbb2ac9e5382f3ae has no IMDb ID. Skipping.
+2025-02-21 21:18:55,108 - logger - WARNING - [Task 43] Movie 67b73952cbb2ac9e5382f3b6 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,109 - logger - WARNING - [Task 44] Movie 67b73952cbb2ac9e5382f3c1 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,109 - logger - WARNING - [Task 45] Movie 67b73952cbb2ac9e5382f3c5 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,109 - logger - WARNING - [Task 46] Movie 67b73952cbb2ac9e5382f3ca has no IMDb ID. Skipping.
+2025-02-21 21:18:55,109 - logger - WARNING - [Task 47] Movie 67b73952cbb2ac9e5382f3cf has no IMDb ID. Skipping.
+2025-02-21 21:18:55,110 - logger - WARNING - [Task 48] Movie 67b73952cbb2ac9e5382f3d1 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,110 - logger - WARNING - [Task 49] Movie 67b73952cbb2ac9e5382f3d2 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,110 - logger - WARNING - [Task 50] Movie 67b73952cbb2ac9e5382f3d3 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,110 - logger - WARNING - [Task 51] Movie 67b73952cbb2ac9e5382f3dc has no IMDb ID. Skipping.
+2025-02-21 21:18:55,110 - logger - WARNING - [Task 52] Movie 67b73952cbb2ac9e5382f3e9 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,111 - logger - WARNING - [Task 53] Movie 67b73952cbb2ac9e5382f3ec has no IMDb ID. Skipping.
+2025-02-21 21:18:55,111 - logger - WARNING - [Task 54] Movie 67b73952cbb2ac9e5382f3ed has no IMDb ID. Skipping.
+2025-02-21 21:18:55,111 - logger - WARNING - [Task 55] Movie 67b73952cbb2ac9e5382f3f4 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,111 - logger - WARNING - [Task 56] Movie 67b73963cbb2ac9e5382f401 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,112 - logger - WARNING - [Task 57] Movie 67b73963cbb2ac9e5382f403 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,112 - logger - WARNING - [Task 58] Movie 67b73963cbb2ac9e5382f404 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,112 - logger - WARNING - [Task 59] Movie 67b73963cbb2ac9e5382f405 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,112 - logger - WARNING - [Task 60] Movie 67b73963cbb2ac9e5382f406 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,112 - logger - WARNING - [Task 61] Movie 67b73963cbb2ac9e5382f408 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,112 - logger - WARNING - [Task 62] Movie 67b73963cbb2ac9e5382f409 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,114 - logger - WARNING - [Task 63] Movie 67b73963cbb2ac9e5382f40b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,114 - logger - WARNING - [Task 64] Movie 67b73963cbb2ac9e5382f40d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,114 - logger - WARNING - [Task 65] Movie 67b73963cbb2ac9e5382f40e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,115 - logger - WARNING - [Task 66] Movie 67b73963cbb2ac9e5382f40f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,116 - logger - WARNING - [Task 67] Movie 67b73963cbb2ac9e5382f410 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,116 - logger - WARNING - [Task 68] Movie 67b73963cbb2ac9e5382f411 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,116 - logger - WARNING - [Task 69] Movie 67b73964cbb2ac9e5382f412 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,117 - logger - WARNING - [Task 70] Movie 67b73964cbb2ac9e5382f416 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,117 - logger - WARNING - [Task 71] Movie 67b73964cbb2ac9e5382f418 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,117 - logger - WARNING - [Task 72] Movie 67b73964cbb2ac9e5382f419 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,117 - logger - WARNING - [Task 73] Movie 67b73964cbb2ac9e5382f41b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,118 - logger - WARNING - [Task 74] Movie 67b73964cbb2ac9e5382f41c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,118 - logger - WARNING - [Task 75] Movie 67b73964cbb2ac9e5382f41e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,118 - logger - WARNING - [Task 76] Movie 67b73964cbb2ac9e5382f420 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,118 - logger - WARNING - [Task 77] Movie 67b73964cbb2ac9e5382f422 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,118 - logger - WARNING - [Task 78] Movie 67b73964cbb2ac9e5382f426 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,119 - logger - WARNING - [Task 79] Movie 67b73964cbb2ac9e5382f429 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,119 - logger - WARNING - [Task 80] Movie 67b73964cbb2ac9e5382f42c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,119 - logger - WARNING - [Task 81] Movie 67b73964cbb2ac9e5382f42d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,119 - logger - WARNING - [Task 82] Movie 67b73964cbb2ac9e5382f439 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,119 - logger - WARNING - [Task 83] Movie 67b73964cbb2ac9e5382f43a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,119 - logger - WARNING - [Task 84] Movie 67b73964cbb2ac9e5382f449 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,120 - logger - WARNING - [Task 85] Movie 67b73964cbb2ac9e5382f451 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,120 - logger - WARNING - [Task 86] Movie 67b73964cbb2ac9e5382f452 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,120 - logger - WARNING - [Task 87] Movie 67b73964cbb2ac9e5382f454 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,120 - logger - WARNING - [Task 88] Movie 67b73964cbb2ac9e5382f45c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,121 - logger - WARNING - [Task 89] Movie 67b73964cbb2ac9e5382f45f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,121 - logger - WARNING - [Task 90] Movie 67b73964cbb2ac9e5382f460 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,121 - logger - WARNING - [Task 91] Movie 67b73979cbb2ac9e5382f464 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,121 - logger - WARNING - [Task 92] Movie 67b73979cbb2ac9e5382f465 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,122 - logger - WARNING - [Task 93] Movie 67b73979cbb2ac9e5382f466 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,122 - logger - WARNING - [Task 94] Movie 67b73979cbb2ac9e5382f46b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,122 - logger - WARNING - [Task 95] Movie 67b73979cbb2ac9e5382f46c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,122 - logger - WARNING - [Task 96] Movie 67b73979cbb2ac9e5382f474 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,124 - logger - WARNING - [Task 97] Movie 67b73979cbb2ac9e5382f479 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,124 - logger - WARNING - [Task 98] Movie 67b73979cbb2ac9e5382f47a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,124 - logger - WARNING - [Task 99] Movie 67b73979cbb2ac9e5382f47c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,125 - logger - WARNING - [Task 100] Movie 67b73979cbb2ac9e5382f480 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,125 - logger - WARNING - [Task 101] Movie 67b73979cbb2ac9e5382f485 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,125 - logger - WARNING - [Task 102] Movie 67b73979cbb2ac9e5382f487 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,125 - logger - WARNING - [Task 103] Movie 67b73979cbb2ac9e5382f48a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,125 - logger - WARNING - [Task 104] Movie 67b73979cbb2ac9e5382f48c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,125 - logger - WARNING - [Task 105] Movie 67b73979cbb2ac9e5382f48d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,125 - logger - WARNING - [Task 106] Movie 67b73979cbb2ac9e5382f490 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,126 - logger - WARNING - [Task 107] Movie 67b73979cbb2ac9e5382f494 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,126 - logger - WARNING - [Task 108] Movie 67b73979cbb2ac9e5382f496 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,126 - logger - WARNING - [Task 109] Movie 67b73979cbb2ac9e5382f499 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,126 - logger - WARNING - [Task 110] Movie 67b73979cbb2ac9e5382f49a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,126 - logger - WARNING - [Task 111] Movie 67b73979cbb2ac9e5382f49c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,126 - logger - WARNING - [Task 112] Movie 67b73979cbb2ac9e5382f4a4 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,126 - logger - WARNING - [Task 113] Movie 67b73979cbb2ac9e5382f4a5 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,127 - logger - WARNING - [Task 114] Movie 67b73979cbb2ac9e5382f4a6 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,127 - logger - WARNING - [Task 115] Movie 67b73979cbb2ac9e5382f4a8 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,127 - logger - WARNING - [Task 116] Movie 67b73979cbb2ac9e5382f4aa has no IMDb ID. Skipping.
+2025-02-21 21:18:55,127 - logger - WARNING - [Task 117] Movie 67b73979cbb2ac9e5382f4ae has no IMDb ID. Skipping.
+2025-02-21 21:18:55,127 - logger - WARNING - [Task 118] Movie 67b73979cbb2ac9e5382f4b1 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,128 - logger - WARNING - [Task 119] Movie 67b7397bcbb2ac9e5382f4b5 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,128 - logger - WARNING - [Task 120] Movie 67b7397bcbb2ac9e5382f4b7 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,128 - logger - WARNING - [Task 121] Movie 67b7397bcbb2ac9e5382f4bb has no IMDb ID. Skipping.
+2025-02-21 21:18:55,128 - logger - WARNING - [Task 122] Movie 67b7397bcbb2ac9e5382f4c0 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,128 - logger - WARNING - [Task 123] Movie 67b7397bcbb2ac9e5382f4c4 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,128 - logger - WARNING - [Task 124] Movie 67b7398fcbb2ac9e5382f4c8 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,130 - logger - WARNING - [Task 125] Movie 67b7398fcbb2ac9e5382f4d0 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,130 - logger - WARNING - [Task 126] Movie 67b7398fcbb2ac9e5382f4d1 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,130 - logger - WARNING - [Task 127] Movie 67b7398fcbb2ac9e5382f4d2 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,130 - logger - WARNING - [Task 128] Movie 67b7398fcbb2ac9e5382f4d4 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,131 - logger - WARNING - [Task 129] Movie 67b7398fcbb2ac9e5382f4d5 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,131 - logger - WARNING - [Task 130] Movie 67b7398fcbb2ac9e5382f4d6 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,131 - logger - WARNING - [Task 131] Movie 67b7398fcbb2ac9e5382f4da has no IMDb ID. Skipping.
+2025-02-21 21:18:55,131 - logger - WARNING - [Task 132] Movie 67b7398fcbb2ac9e5382f4dc has no IMDb ID. Skipping.
+2025-02-21 21:18:55,131 - logger - WARNING - [Task 133] Movie 67b7398fcbb2ac9e5382f4e3 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,131 - logger - WARNING - [Task 134] Movie 67b7398fcbb2ac9e5382f4e7 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,131 - logger - WARNING - [Task 135] Movie 67b7398fcbb2ac9e5382f4e9 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,132 - logger - WARNING - [Task 136] Movie 67b7398fcbb2ac9e5382f4eb has no IMDb ID. Skipping.
+2025-02-21 21:18:55,132 - logger - WARNING - [Task 137] Movie 67b7398fcbb2ac9e5382f4ec has no IMDb ID. Skipping.
+2025-02-21 21:18:55,132 - logger - WARNING - [Task 138] Movie 67b7398fcbb2ac9e5382f4ee has no IMDb ID. Skipping.
+2025-02-21 21:18:55,132 - logger - WARNING - [Task 139] Movie 67b7398fcbb2ac9e5382f4ef has no IMDb ID. Skipping.
+2025-02-21 21:18:55,132 - logger - WARNING - [Task 140] Movie 67b7398fcbb2ac9e5382f4f0 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,132 - logger - WARNING - [Task 141] Movie 67b7398fcbb2ac9e5382f4f1 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,133 - logger - WARNING - [Task 142] Movie 67b7398fcbb2ac9e5382f4f2 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,133 - logger - WARNING - [Task 143] Movie 67b7398fcbb2ac9e5382f4f3 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,133 - logger - WARNING - [Task 144] Movie 67b7398fcbb2ac9e5382f4f5 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,133 - logger - WARNING - [Task 145] Movie 67b7398fcbb2ac9e5382f4f6 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,133 - logger - WARNING - [Task 146] Movie 67b7398fcbb2ac9e5382f4f7 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,133 - logger - WARNING - [Task 147] Movie 67b7398fcbb2ac9e5382f4f8 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,134 - logger - WARNING - [Task 148] Movie 67b7398fcbb2ac9e5382f4f9 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,134 - logger - WARNING - [Task 149] Movie 67b7398fcbb2ac9e5382f4fb has no IMDb ID. Skipping.
+2025-02-21 21:18:55,134 - logger - WARNING - [Task 150] Movie 67b7398fcbb2ac9e5382f500 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,134 - logger - WARNING - [Task 151] Movie 67b7398fcbb2ac9e5382f502 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,134 - logger - WARNING - [Task 152] Movie 67b7398fcbb2ac9e5382f506 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,134 - logger - WARNING - [Task 153] Movie 67b7398fcbb2ac9e5382f509 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,134 - logger - WARNING - [Task 154] Movie 67b7398fcbb2ac9e5382f50d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,135 - logger - WARNING - [Task 155] Movie 67b7398fcbb2ac9e5382f511 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,135 - logger - WARNING - [Task 156] Movie 67b7398fcbb2ac9e5382f512 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,135 - logger - WARNING - [Task 157] Movie 67b7398fcbb2ac9e5382f513 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,135 - logger - WARNING - [Task 158] Movie 67b73990cbb2ac9e5382f518 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,135 - logger - WARNING - [Task 159] Movie 67b73990cbb2ac9e5382f51a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,135 - logger - WARNING - [Task 160] Movie 67b73990cbb2ac9e5382f51c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,136 - logger - WARNING - [Task 161] Movie 67b73990cbb2ac9e5382f51d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,136 - logger - WARNING - [Task 162] Movie 67b73990cbb2ac9e5382f522 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,136 - logger - WARNING - [Task 163] Movie 67b73990cbb2ac9e5382f527 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,136 - logger - WARNING - [Task 164] Movie 67b7399bcbb2ac9e5382f52a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,136 - logger - WARNING - [Task 165] Movie 67b7399bcbb2ac9e5382f52b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,136 - logger - WARNING - [Task 166] Movie 67b7399bcbb2ac9e5382f52c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,136 - logger - WARNING - [Task 167] Movie 67b7399bcbb2ac9e5382f52d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,137 - logger - WARNING - [Task 168] Movie 67b7399bcbb2ac9e5382f52e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,137 - logger - WARNING - [Task 169] Movie 67b7399bcbb2ac9e5382f52f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,137 - logger - WARNING - [Task 170] Movie 67b7399bcbb2ac9e5382f530 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,138 - logger - WARNING - [Task 171] Movie 67b7399bcbb2ac9e5382f531 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,138 - logger - WARNING - [Task 172] Movie 67b7399bcbb2ac9e5382f532 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,138 - logger - WARNING - [Task 173] Movie 67b7399bcbb2ac9e5382f533 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,138 - logger - WARNING - [Task 174] Movie 67b7399bcbb2ac9e5382f534 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,138 - logger - WARNING - [Task 175] Movie 67b7399bcbb2ac9e5382f535 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,138 - logger - WARNING - [Task 176] Movie 67b7399bcbb2ac9e5382f536 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,138 - logger - WARNING - [Task 177] Movie 67b7399bcbb2ac9e5382f537 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,139 - logger - WARNING - [Task 178] Movie 67b7399bcbb2ac9e5382f538 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,140 - logger - WARNING - [Task 179] Movie 67b7399bcbb2ac9e5382f539 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,140 - logger - WARNING - [Task 180] Movie 67b7399bcbb2ac9e5382f53a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,141 - logger - WARNING - [Task 181] Movie 67b7399bcbb2ac9e5382f53d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,141 - logger - WARNING - [Task 182] Movie 67b739a2cbb2ac9e5382f53e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,141 - logger - WARNING - [Task 183] Movie 67b739a2cbb2ac9e5382f53f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,141 - logger - WARNING - [Task 184] Movie 67b739a2cbb2ac9e5382f540 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,141 - logger - WARNING - [Task 185] Movie 67b739a2cbb2ac9e5382f541 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,142 - logger - WARNING - [Task 186] Movie 67b739a2cbb2ac9e5382f542 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,142 - logger - WARNING - [Task 187] Movie 67b739a2cbb2ac9e5382f544 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,142 - logger - WARNING - [Task 188] Movie 67b739a2cbb2ac9e5382f545 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,142 - logger - WARNING - [Task 189] Movie 67b739a2cbb2ac9e5382f547 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,142 - logger - WARNING - [Task 190] Movie 67b739a2cbb2ac9e5382f54a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,142 - logger - WARNING - [Task 191] Movie 67b739a2cbb2ac9e5382f54b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,142 - logger - WARNING - [Task 192] Movie 67b739a2cbb2ac9e5382f54e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,143 - logger - WARNING - [Task 193] Movie 67b739a2cbb2ac9e5382f551 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,143 - logger - WARNING - [Task 194] Movie 67b739a2cbb2ac9e5382f552 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,143 - logger - WARNING - [Task 195] Movie 67b739a2cbb2ac9e5382f553 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,143 - logger - WARNING - [Task 196] Movie 67b739a2cbb2ac9e5382f554 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,143 - logger - WARNING - [Task 197] Movie 67b739a2cbb2ac9e5382f555 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,143 - logger - WARNING - [Task 198] Movie 67b739a2cbb2ac9e5382f556 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,143 - logger - WARNING - [Task 199] Movie 67b739a2cbb2ac9e5382f559 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,144 - logger - WARNING - [Task 200] Movie 67b739a2cbb2ac9e5382f55b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,144 - logger - WARNING - [Task 201] Movie 67b739a2cbb2ac9e5382f55d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,144 - logger - WARNING - [Task 202] Movie 67b739a2cbb2ac9e5382f55e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,144 - logger - WARNING - [Task 203] Movie 67b739a2cbb2ac9e5382f55f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,144 - logger - WARNING - [Task 204] Movie 67b739a2cbb2ac9e5382f560 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,145 - logger - WARNING - [Task 205] Movie 67b739a2cbb2ac9e5382f562 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,145 - logger - WARNING - [Task 206] Movie 67b739a2cbb2ac9e5382f563 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,145 - logger - WARNING - [Task 207] Movie 67b739a3cbb2ac9e5382f568 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,145 - logger - WARNING - [Task 208] Movie 67b739a3cbb2ac9e5382f56a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,146 - logger - WARNING - [Task 209] Movie 67b739a3cbb2ac9e5382f56c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,146 - logger - WARNING - [Task 210] Movie 67b739a3cbb2ac9e5382f56d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,146 - logger - WARNING - [Task 211] Movie 67b739a3cbb2ac9e5382f56e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,146 - logger - WARNING - [Task 212] Movie 67b739a3cbb2ac9e5382f56f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,146 - logger - WARNING - [Task 213] Movie 67b739a3cbb2ac9e5382f570 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,146 - logger - WARNING - [Task 214] Movie 67b739a3cbb2ac9e5382f571 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,146 - logger - WARNING - [Task 215] Movie 67b739a3cbb2ac9e5382f572 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,147 - logger - WARNING - [Task 216] Movie 67b739a3cbb2ac9e5382f573 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,147 - logger - WARNING - [Task 217] Movie 67b739a3cbb2ac9e5382f574 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,147 - logger - WARNING - [Task 218] Movie 67b739a3cbb2ac9e5382f575 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,147 - logger - WARNING - [Task 219] Movie 67b739a3cbb2ac9e5382f578 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,147 - logger - WARNING - [Task 220] Movie 67b739a3cbb2ac9e5382f57c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,147 - logger - WARNING - [Task 221] Movie 67b739a3cbb2ac9e5382f57d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,148 - logger - WARNING - [Task 222] Movie 67b739a3cbb2ac9e5382f57e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,148 - logger - WARNING - [Task 223] Movie 67b739a3cbb2ac9e5382f580 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,148 - logger - WARNING - [Task 224] Movie 67b739a3cbb2ac9e5382f581 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,148 - logger - WARNING - [Task 225] Movie 67b739a3cbb2ac9e5382f582 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,148 - logger - WARNING - [Task 226] Movie 67b739a3cbb2ac9e5382f584 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,148 - logger - WARNING - [Task 227] Movie 67b739a3cbb2ac9e5382f585 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,148 - logger - WARNING - [Task 228] Movie 67b739a3cbb2ac9e5382f588 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,150 - logger - WARNING - [Task 229] Movie 67b739a3cbb2ac9e5382f58a has no IMDb ID. Skipping.
+2025-02-21 21:18:55,150 - logger - WARNING - [Task 230] Movie 67b739a3cbb2ac9e5382f58b has no IMDb ID. Skipping.
+2025-02-21 21:18:55,150 - logger - WARNING - [Task 231] Movie 67b739a3cbb2ac9e5382f58c has no IMDb ID. Skipping.
+2025-02-21 21:18:55,150 - logger - WARNING - [Task 232] Movie 67b739a3cbb2ac9e5382f58d has no IMDb ID. Skipping.
+2025-02-21 21:18:55,150 - logger - WARNING - [Task 233] Movie 67b739b7cbb2ac9e5382f58e has no IMDb ID. Skipping.
+2025-02-21 21:18:55,150 - logger - WARNING - [Task 234] Movie 67b739b7cbb2ac9e5382f58f has no IMDb ID. Skipping.
+2025-02-21 21:18:55,150 - logger - WARNING - [Task 235] Movie 67b739b7cbb2ac9e5382f593 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,151 - logger - WARNING - [Task 236] Movie 67b739b7cbb2ac9e5382f594 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,151 - logger - WARNING - [Task 237] Movie 67b739b7cbb2ac9e5382f596 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,151 - logger - WARNING - [Task 238] Movie 67b739b7cbb2ac9e5382f597 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,151 - logger - WARNING - [Task 239] Movie 67b739b7cbb2ac9e5382f598 has no IMDb ID. Skipping.
+2025-02-21 21:18:55,151 - logger - INFO - All movies have been processed.
+2025-02-21 21:18:55,153 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-21 21:23:19,160 - logger - INFO - Connected to MongoDB!
+2025-02-21 21:23:19,178 - logger - INFO - Found 239 movies to update.
+2025-02-21 21:23:19,178 - logger - WARNING - [Task 1] Movie 67b738b1cbb2ac9e5382f059 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,179 - logger - WARNING - [Task 2] Movie 67b738d3cbb2ac9e5382f0f8 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,179 - logger - WARNING - [Task 3] Movie 67b738ddcbb2ac9e5382f15a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,179 - logger - WARNING - [Task 4] Movie 67b738f1cbb2ac9e5382f1cb has no IMDb ID. Skipping.
+2025-02-21 21:23:19,179 - logger - WARNING - [Task 5] Movie 67b738f6cbb2ac9e5382f1e2 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,180 - logger - WARNING - [Task 6] Movie 67b73905cbb2ac9e5382f219 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,181 - logger - WARNING - [Task 7] Movie 67b7390ccbb2ac9e5382f265 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,181 - logger - WARNING - [Task 8] Movie 67b73918cbb2ac9e5382f283 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,181 - logger - WARNING - [Task 9] Movie 67b73918cbb2ac9e5382f293 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,182 - logger - WARNING - [Task 10] Movie 67b7391ecbb2ac9e5382f2a8 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,182 - logger - WARNING - [Task 11] Movie 67b7391ecbb2ac9e5382f2ad has no IMDb ID. Skipping.
+2025-02-21 21:23:19,182 - logger - WARNING - [Task 12] Movie 67b7391fcbb2ac9e5382f2c4 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,183 - logger - WARNING - [Task 13] Movie 67b7391fcbb2ac9e5382f2cc has no IMDb ID. Skipping.
+2025-02-21 21:23:19,183 - logger - WARNING - [Task 14] Movie 67b7392ccbb2ac9e5382f2d5 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,183 - logger - WARNING - [Task 15] Movie 67b7392ccbb2ac9e5382f2e8 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,183 - logger - WARNING - [Task 16] Movie 67b7392ccbb2ac9e5382f2fc has no IMDb ID. Skipping.
+2025-02-21 21:23:19,183 - logger - WARNING - [Task 17] Movie 67b7392ccbb2ac9e5382f2fe has no IMDb ID. Skipping.
+2025-02-21 21:23:19,183 - logger - WARNING - [Task 18] Movie 67b7392ccbb2ac9e5382f302 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,184 - logger - WARNING - [Task 19] Movie 67b7392ccbb2ac9e5382f30a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,184 - logger - WARNING - [Task 20] Movie 67b7392ccbb2ac9e5382f321 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,184 - logger - WARNING - [Task 21] Movie 67b7392ccbb2ac9e5382f32e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,184 - logger - WARNING - [Task 22] Movie 67b7393dcbb2ac9e5382f340 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,184 - logger - WARNING - [Task 23] Movie 67b7393dcbb2ac9e5382f349 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,184 - logger - WARNING - [Task 24] Movie 67b7393dcbb2ac9e5382f35b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,185 - logger - WARNING - [Task 25] Movie 67b7393dcbb2ac9e5382f361 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,185 - logger - WARNING - [Task 26] Movie 67b7393dcbb2ac9e5382f362 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,185 - logger - WARNING - [Task 27] Movie 67b7393dcbb2ac9e5382f36b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,185 - logger - WARNING - [Task 28] Movie 67b7393dcbb2ac9e5382f36f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,185 - logger - WARNING - [Task 29] Movie 67b7393dcbb2ac9e5382f370 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,185 - logger - WARNING - [Task 30] Movie 67b7393dcbb2ac9e5382f378 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,186 - logger - WARNING - [Task 31] Movie 67b7393dcbb2ac9e5382f37b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,186 - logger - WARNING - [Task 32] Movie 67b7393dcbb2ac9e5382f37e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,186 - logger - WARNING - [Task 33] Movie 67b7393dcbb2ac9e5382f383 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,186 - logger - WARNING - [Task 34] Movie 67b7393ecbb2ac9e5382f386 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,186 - logger - WARNING - [Task 35] Movie 67b7393ecbb2ac9e5382f391 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,186 - logger - WARNING - [Task 36] Movie 67b73951cbb2ac9e5382f39c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 37] Movie 67b73951cbb2ac9e5382f39f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 38] Movie 67b73951cbb2ac9e5382f3a3 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 39] Movie 67b73951cbb2ac9e5382f3a4 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 40] Movie 67b73951cbb2ac9e5382f3a7 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 41] Movie 67b73951cbb2ac9e5382f3aa has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 42] Movie 67b73952cbb2ac9e5382f3ae has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 43] Movie 67b73952cbb2ac9e5382f3b6 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,187 - logger - WARNING - [Task 44] Movie 67b73952cbb2ac9e5382f3c1 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,188 - logger - WARNING - [Task 45] Movie 67b73952cbb2ac9e5382f3c5 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,188 - logger - WARNING - [Task 46] Movie 67b73952cbb2ac9e5382f3ca has no IMDb ID. Skipping.
+2025-02-21 21:23:19,188 - logger - WARNING - [Task 47] Movie 67b73952cbb2ac9e5382f3cf has no IMDb ID. Skipping.
+2025-02-21 21:23:19,188 - logger - WARNING - [Task 48] Movie 67b73952cbb2ac9e5382f3d1 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,188 - logger - WARNING - [Task 49] Movie 67b73952cbb2ac9e5382f3d2 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,188 - logger - WARNING - [Task 50] Movie 67b73952cbb2ac9e5382f3d3 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 51] Movie 67b73952cbb2ac9e5382f3dc has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 52] Movie 67b73952cbb2ac9e5382f3e9 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 53] Movie 67b73952cbb2ac9e5382f3ec has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 54] Movie 67b73952cbb2ac9e5382f3ed has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 55] Movie 67b73952cbb2ac9e5382f3f4 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 56] Movie 67b73963cbb2ac9e5382f401 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 57] Movie 67b73963cbb2ac9e5382f403 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,189 - logger - WARNING - [Task 58] Movie 67b73963cbb2ac9e5382f404 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,191 - logger - WARNING - [Task 59] Movie 67b73963cbb2ac9e5382f405 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,191 - logger - WARNING - [Task 60] Movie 67b73963cbb2ac9e5382f406 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,191 - logger - WARNING - [Task 61] Movie 67b73963cbb2ac9e5382f408 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,191 - logger - WARNING - [Task 62] Movie 67b73963cbb2ac9e5382f409 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,191 - logger - WARNING - [Task 63] Movie 67b73963cbb2ac9e5382f40b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,191 - logger - WARNING - [Task 64] Movie 67b73963cbb2ac9e5382f40d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,192 - logger - WARNING - [Task 65] Movie 67b73963cbb2ac9e5382f40e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,192 - logger - WARNING - [Task 66] Movie 67b73963cbb2ac9e5382f40f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,192 - logger - WARNING - [Task 67] Movie 67b73963cbb2ac9e5382f410 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,192 - logger - WARNING - [Task 68] Movie 67b73963cbb2ac9e5382f411 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,192 - logger - WARNING - [Task 69] Movie 67b73964cbb2ac9e5382f412 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,192 - logger - WARNING - [Task 70] Movie 67b73964cbb2ac9e5382f416 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,192 - logger - WARNING - [Task 71] Movie 67b73964cbb2ac9e5382f418 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,193 - logger - WARNING - [Task 72] Movie 67b73964cbb2ac9e5382f419 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,193 - logger - WARNING - [Task 73] Movie 67b73964cbb2ac9e5382f41b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,193 - logger - WARNING - [Task 74] Movie 67b73964cbb2ac9e5382f41c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,193 - logger - WARNING - [Task 75] Movie 67b73964cbb2ac9e5382f41e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,193 - logger - WARNING - [Task 76] Movie 67b73964cbb2ac9e5382f420 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,193 - logger - WARNING - [Task 77] Movie 67b73964cbb2ac9e5382f422 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,193 - logger - WARNING - [Task 78] Movie 67b73964cbb2ac9e5382f426 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 79] Movie 67b73964cbb2ac9e5382f429 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 80] Movie 67b73964cbb2ac9e5382f42c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 81] Movie 67b73964cbb2ac9e5382f42d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 82] Movie 67b73964cbb2ac9e5382f439 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 83] Movie 67b73964cbb2ac9e5382f43a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 84] Movie 67b73964cbb2ac9e5382f449 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 85] Movie 67b73964cbb2ac9e5382f451 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,194 - logger - WARNING - [Task 86] Movie 67b73964cbb2ac9e5382f452 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,195 - logger - WARNING - [Task 87] Movie 67b73964cbb2ac9e5382f454 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,195 - logger - WARNING - [Task 88] Movie 67b73964cbb2ac9e5382f45c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,195 - logger - WARNING - [Task 89] Movie 67b73964cbb2ac9e5382f45f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,195 - logger - WARNING - [Task 90] Movie 67b73964cbb2ac9e5382f460 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,195 - logger - WARNING - [Task 91] Movie 67b73979cbb2ac9e5382f464 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,195 - logger - WARNING - [Task 92] Movie 67b73979cbb2ac9e5382f465 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,195 - logger - WARNING - [Task 93] Movie 67b73979cbb2ac9e5382f466 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,196 - logger - WARNING - [Task 94] Movie 67b73979cbb2ac9e5382f46b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,196 - logger - WARNING - [Task 95] Movie 67b73979cbb2ac9e5382f46c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,196 - logger - WARNING - [Task 96] Movie 67b73979cbb2ac9e5382f474 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,196 - logger - WARNING - [Task 97] Movie 67b73979cbb2ac9e5382f479 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,196 - logger - WARNING - [Task 98] Movie 67b73979cbb2ac9e5382f47a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 99] Movie 67b73979cbb2ac9e5382f47c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 100] Movie 67b73979cbb2ac9e5382f480 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 101] Movie 67b73979cbb2ac9e5382f485 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 102] Movie 67b73979cbb2ac9e5382f487 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 103] Movie 67b73979cbb2ac9e5382f48a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 104] Movie 67b73979cbb2ac9e5382f48c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 105] Movie 67b73979cbb2ac9e5382f48d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,197 - logger - WARNING - [Task 106] Movie 67b73979cbb2ac9e5382f490 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,198 - logger - WARNING - [Task 107] Movie 67b73979cbb2ac9e5382f494 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,198 - logger - WARNING - [Task 108] Movie 67b73979cbb2ac9e5382f496 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,198 - logger - WARNING - [Task 109] Movie 67b73979cbb2ac9e5382f499 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,198 - logger - WARNING - [Task 110] Movie 67b73979cbb2ac9e5382f49a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,198 - logger - WARNING - [Task 111] Movie 67b73979cbb2ac9e5382f49c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,198 - logger - WARNING - [Task 112] Movie 67b73979cbb2ac9e5382f4a4 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,198 - logger - WARNING - [Task 113] Movie 67b73979cbb2ac9e5382f4a5 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 114] Movie 67b73979cbb2ac9e5382f4a6 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 115] Movie 67b73979cbb2ac9e5382f4a8 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 116] Movie 67b73979cbb2ac9e5382f4aa has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 117] Movie 67b73979cbb2ac9e5382f4ae has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 118] Movie 67b73979cbb2ac9e5382f4b1 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 119] Movie 67b7397bcbb2ac9e5382f4b5 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 120] Movie 67b7397bcbb2ac9e5382f4b7 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,199 - logger - WARNING - [Task 121] Movie 67b7397bcbb2ac9e5382f4bb has no IMDb ID. Skipping.
+2025-02-21 21:23:19,200 - logger - WARNING - [Task 122] Movie 67b7397bcbb2ac9e5382f4c0 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,200 - logger - WARNING - [Task 123] Movie 67b7397bcbb2ac9e5382f4c4 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,200 - logger - WARNING - [Task 124] Movie 67b7398fcbb2ac9e5382f4c8 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,200 - logger - WARNING - [Task 125] Movie 67b7398fcbb2ac9e5382f4d0 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,200 - logger - WARNING - [Task 126] Movie 67b7398fcbb2ac9e5382f4d1 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,200 - logger - WARNING - [Task 127] Movie 67b7398fcbb2ac9e5382f4d2 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,201 - logger - WARNING - [Task 128] Movie 67b7398fcbb2ac9e5382f4d4 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,201 - logger - WARNING - [Task 129] Movie 67b7398fcbb2ac9e5382f4d5 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,201 - logger - WARNING - [Task 130] Movie 67b7398fcbb2ac9e5382f4d6 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,201 - logger - WARNING - [Task 131] Movie 67b7398fcbb2ac9e5382f4da has no IMDb ID. Skipping.
+2025-02-21 21:23:19,201 - logger - WARNING - [Task 132] Movie 67b7398fcbb2ac9e5382f4dc has no IMDb ID. Skipping.
+2025-02-21 21:23:19,201 - logger - WARNING - [Task 133] Movie 67b7398fcbb2ac9e5382f4e3 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,202 - logger - WARNING - [Task 134] Movie 67b7398fcbb2ac9e5382f4e7 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,202 - logger - WARNING - [Task 135] Movie 67b7398fcbb2ac9e5382f4e9 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,202 - logger - WARNING - [Task 136] Movie 67b7398fcbb2ac9e5382f4eb has no IMDb ID. Skipping.
+2025-02-21 21:23:19,202 - logger - WARNING - [Task 137] Movie 67b7398fcbb2ac9e5382f4ec has no IMDb ID. Skipping.
+2025-02-21 21:23:19,202 - logger - WARNING - [Task 138] Movie 67b7398fcbb2ac9e5382f4ee has no IMDb ID. Skipping.
+2025-02-21 21:23:19,202 - logger - WARNING - [Task 139] Movie 67b7398fcbb2ac9e5382f4ef has no IMDb ID. Skipping.
+2025-02-21 21:23:19,202 - logger - WARNING - [Task 140] Movie 67b7398fcbb2ac9e5382f4f0 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,203 - logger - WARNING - [Task 141] Movie 67b7398fcbb2ac9e5382f4f1 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,203 - logger - WARNING - [Task 142] Movie 67b7398fcbb2ac9e5382f4f2 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,203 - logger - WARNING - [Task 143] Movie 67b7398fcbb2ac9e5382f4f3 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,203 - logger - WARNING - [Task 144] Movie 67b7398fcbb2ac9e5382f4f5 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,203 - logger - WARNING - [Task 145] Movie 67b7398fcbb2ac9e5382f4f6 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,203 - logger - WARNING - [Task 146] Movie 67b7398fcbb2ac9e5382f4f7 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,203 - logger - WARNING - [Task 147] Movie 67b7398fcbb2ac9e5382f4f8 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,204 - logger - WARNING - [Task 148] Movie 67b7398fcbb2ac9e5382f4f9 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,204 - logger - WARNING - [Task 149] Movie 67b7398fcbb2ac9e5382f4fb has no IMDb ID. Skipping.
+2025-02-21 21:23:19,204 - logger - WARNING - [Task 150] Movie 67b7398fcbb2ac9e5382f500 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,204 - logger - WARNING - [Task 151] Movie 67b7398fcbb2ac9e5382f502 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,204 - logger - WARNING - [Task 152] Movie 67b7398fcbb2ac9e5382f506 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,205 - logger - WARNING - [Task 153] Movie 67b7398fcbb2ac9e5382f509 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,205 - logger - WARNING - [Task 154] Movie 67b7398fcbb2ac9e5382f50d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,205 - logger - WARNING - [Task 155] Movie 67b7398fcbb2ac9e5382f511 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,205 - logger - WARNING - [Task 156] Movie 67b7398fcbb2ac9e5382f512 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,205 - logger - WARNING - [Task 157] Movie 67b7398fcbb2ac9e5382f513 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,205 - logger - WARNING - [Task 158] Movie 67b73990cbb2ac9e5382f518 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,206 - logger - WARNING - [Task 159] Movie 67b73990cbb2ac9e5382f51a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,206 - logger - WARNING - [Task 160] Movie 67b73990cbb2ac9e5382f51c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,206 - logger - WARNING - [Task 161] Movie 67b73990cbb2ac9e5382f51d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,206 - logger - WARNING - [Task 162] Movie 67b73990cbb2ac9e5382f522 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,206 - logger - WARNING - [Task 163] Movie 67b73990cbb2ac9e5382f527 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,206 - logger - WARNING - [Task 164] Movie 67b7399bcbb2ac9e5382f52a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,207 - logger - WARNING - [Task 165] Movie 67b7399bcbb2ac9e5382f52b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,207 - logger - WARNING - [Task 166] Movie 67b7399bcbb2ac9e5382f52c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,207 - logger - WARNING - [Task 167] Movie 67b7399bcbb2ac9e5382f52d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,207 - logger - WARNING - [Task 168] Movie 67b7399bcbb2ac9e5382f52e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,207 - logger - WARNING - [Task 169] Movie 67b7399bcbb2ac9e5382f52f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,207 - logger - WARNING - [Task 170] Movie 67b7399bcbb2ac9e5382f530 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,208 - logger - WARNING - [Task 171] Movie 67b7399bcbb2ac9e5382f531 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,208 - logger - WARNING - [Task 172] Movie 67b7399bcbb2ac9e5382f532 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,208 - logger - WARNING - [Task 173] Movie 67b7399bcbb2ac9e5382f533 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,208 - logger - WARNING - [Task 174] Movie 67b7399bcbb2ac9e5382f534 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,208 - logger - WARNING - [Task 175] Movie 67b7399bcbb2ac9e5382f535 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,210 - logger - WARNING - [Task 176] Movie 67b7399bcbb2ac9e5382f536 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,210 - logger - WARNING - [Task 177] Movie 67b7399bcbb2ac9e5382f537 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,210 - logger - WARNING - [Task 178] Movie 67b7399bcbb2ac9e5382f538 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,210 - logger - WARNING - [Task 179] Movie 67b7399bcbb2ac9e5382f539 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,210 - logger - WARNING - [Task 180] Movie 67b7399bcbb2ac9e5382f53a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,211 - logger - WARNING - [Task 181] Movie 67b7399bcbb2ac9e5382f53d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,211 - logger - WARNING - [Task 182] Movie 67b739a2cbb2ac9e5382f53e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,211 - logger - WARNING - [Task 183] Movie 67b739a2cbb2ac9e5382f53f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,211 - logger - WARNING - [Task 184] Movie 67b739a2cbb2ac9e5382f540 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,211 - logger - WARNING - [Task 185] Movie 67b739a2cbb2ac9e5382f541 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,212 - logger - WARNING - [Task 186] Movie 67b739a2cbb2ac9e5382f542 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,212 - logger - WARNING - [Task 187] Movie 67b739a2cbb2ac9e5382f544 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,212 - logger - WARNING - [Task 188] Movie 67b739a2cbb2ac9e5382f545 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,212 - logger - WARNING - [Task 189] Movie 67b739a2cbb2ac9e5382f547 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,212 - logger - WARNING - [Task 190] Movie 67b739a2cbb2ac9e5382f54a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,213 - logger - WARNING - [Task 191] Movie 67b739a2cbb2ac9e5382f54b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,213 - logger - WARNING - [Task 192] Movie 67b739a2cbb2ac9e5382f54e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,213 - logger - WARNING - [Task 193] Movie 67b739a2cbb2ac9e5382f551 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,213 - logger - WARNING - [Task 194] Movie 67b739a2cbb2ac9e5382f552 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,213 - logger - WARNING - [Task 195] Movie 67b739a2cbb2ac9e5382f553 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,213 - logger - WARNING - [Task 196] Movie 67b739a2cbb2ac9e5382f554 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 197] Movie 67b739a2cbb2ac9e5382f555 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 198] Movie 67b739a2cbb2ac9e5382f556 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 199] Movie 67b739a2cbb2ac9e5382f559 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 200] Movie 67b739a2cbb2ac9e5382f55b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 201] Movie 67b739a2cbb2ac9e5382f55d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 202] Movie 67b739a2cbb2ac9e5382f55e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 203] Movie 67b739a2cbb2ac9e5382f55f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,214 - logger - WARNING - [Task 204] Movie 67b739a2cbb2ac9e5382f560 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,215 - logger - WARNING - [Task 205] Movie 67b739a2cbb2ac9e5382f562 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,215 - logger - WARNING - [Task 206] Movie 67b739a2cbb2ac9e5382f563 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,215 - logger - WARNING - [Task 207] Movie 67b739a3cbb2ac9e5382f568 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,215 - logger - WARNING - [Task 208] Movie 67b739a3cbb2ac9e5382f56a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,215 - logger - WARNING - [Task 209] Movie 67b739a3cbb2ac9e5382f56c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,215 - logger - WARNING - [Task 210] Movie 67b739a3cbb2ac9e5382f56d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,215 - logger - WARNING - [Task 211] Movie 67b739a3cbb2ac9e5382f56e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,216 - logger - WARNING - [Task 212] Movie 67b739a3cbb2ac9e5382f56f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,216 - logger - WARNING - [Task 213] Movie 67b739a3cbb2ac9e5382f570 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,216 - logger - WARNING - [Task 214] Movie 67b739a3cbb2ac9e5382f571 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,216 - logger - WARNING - [Task 215] Movie 67b739a3cbb2ac9e5382f572 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,216 - logger - WARNING - [Task 216] Movie 67b739a3cbb2ac9e5382f573 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,216 - logger - WARNING - [Task 217] Movie 67b739a3cbb2ac9e5382f574 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,217 - logger - WARNING - [Task 218] Movie 67b739a3cbb2ac9e5382f575 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,217 - logger - WARNING - [Task 219] Movie 67b739a3cbb2ac9e5382f578 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,217 - logger - WARNING - [Task 220] Movie 67b739a3cbb2ac9e5382f57c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,217 - logger - WARNING - [Task 221] Movie 67b739a3cbb2ac9e5382f57d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,217 - logger - WARNING - [Task 222] Movie 67b739a3cbb2ac9e5382f57e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,217 - logger - WARNING - [Task 223] Movie 67b739a3cbb2ac9e5382f580 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,218 - logger - WARNING - [Task 224] Movie 67b739a3cbb2ac9e5382f581 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,218 - logger - WARNING - [Task 225] Movie 67b739a3cbb2ac9e5382f582 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,218 - logger - WARNING - [Task 226] Movie 67b739a3cbb2ac9e5382f584 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,218 - logger - WARNING - [Task 227] Movie 67b739a3cbb2ac9e5382f585 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,218 - logger - WARNING - [Task 228] Movie 67b739a3cbb2ac9e5382f588 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,218 - logger - WARNING - [Task 229] Movie 67b739a3cbb2ac9e5382f58a has no IMDb ID. Skipping.
+2025-02-21 21:23:19,219 - logger - WARNING - [Task 230] Movie 67b739a3cbb2ac9e5382f58b has no IMDb ID. Skipping.
+2025-02-21 21:23:19,219 - logger - WARNING - [Task 231] Movie 67b739a3cbb2ac9e5382f58c has no IMDb ID. Skipping.
+2025-02-21 21:23:19,219 - logger - WARNING - [Task 232] Movie 67b739a3cbb2ac9e5382f58d has no IMDb ID. Skipping.
+2025-02-21 21:23:19,219 - logger - WARNING - [Task 233] Movie 67b739b7cbb2ac9e5382f58e has no IMDb ID. Skipping.
+2025-02-21 21:23:19,220 - logger - WARNING - [Task 234] Movie 67b739b7cbb2ac9e5382f58f has no IMDb ID. Skipping.
+2025-02-21 21:23:19,220 - logger - WARNING - [Task 235] Movie 67b739b7cbb2ac9e5382f593 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,220 - logger - WARNING - [Task 236] Movie 67b739b7cbb2ac9e5382f594 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,220 - logger - WARNING - [Task 237] Movie 67b739b7cbb2ac9e5382f596 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,221 - logger - WARNING - [Task 238] Movie 67b739b7cbb2ac9e5382f597 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,221 - logger - WARNING - [Task 239] Movie 67b739b7cbb2ac9e5382f598 has no IMDb ID. Skipping.
+2025-02-21 21:23:19,221 - logger - INFO - All movies have been processed.
+2025-02-21 21:23:19,223 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-21 21:27:17,388 - logger - INFO - Connected to MongoDB!
+2025-02-21 21:27:17,407 - logger - INFO - Found 239 movies to update.
+2025-02-21 21:27:17,407 - logger - WARNING - [Task 1] Movie 67b738b1cbb2ac9e5382f059 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,407 - logger - WARNING - [Task 2] Movie 67b738d3cbb2ac9e5382f0f8 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,407 - logger - WARNING - [Task 3] Movie 67b738ddcbb2ac9e5382f15a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,407 - logger - WARNING - [Task 4] Movie 67b738f1cbb2ac9e5382f1cb has no IMDb ID. Skipping.
+2025-02-21 21:27:17,408 - logger - WARNING - [Task 5] Movie 67b738f6cbb2ac9e5382f1e2 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,408 - logger - WARNING - [Task 6] Movie 67b73905cbb2ac9e5382f219 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,408 - logger - WARNING - [Task 7] Movie 67b7390ccbb2ac9e5382f265 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,408 - logger - WARNING - [Task 8] Movie 67b73918cbb2ac9e5382f283 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,408 - logger - WARNING - [Task 9] Movie 67b73918cbb2ac9e5382f293 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,410 - logger - WARNING - [Task 10] Movie 67b7391ecbb2ac9e5382f2a8 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,410 - logger - WARNING - [Task 11] Movie 67b7391ecbb2ac9e5382f2ad has no IMDb ID. Skipping.
+2025-02-21 21:27:17,410 - logger - WARNING - [Task 12] Movie 67b7391fcbb2ac9e5382f2c4 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,410 - logger - WARNING - [Task 13] Movie 67b7391fcbb2ac9e5382f2cc has no IMDb ID. Skipping.
+2025-02-21 21:27:17,411 - logger - WARNING - [Task 14] Movie 67b7392ccbb2ac9e5382f2d5 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,411 - logger - WARNING - [Task 15] Movie 67b7392ccbb2ac9e5382f2e8 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,411 - logger - WARNING - [Task 16] Movie 67b7392ccbb2ac9e5382f2fc has no IMDb ID. Skipping.
+2025-02-21 21:27:17,411 - logger - WARNING - [Task 17] Movie 67b7392ccbb2ac9e5382f2fe has no IMDb ID. Skipping.
+2025-02-21 21:27:17,412 - logger - WARNING - [Task 18] Movie 67b7392ccbb2ac9e5382f302 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,412 - logger - WARNING - [Task 19] Movie 67b7392ccbb2ac9e5382f30a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,412 - logger - WARNING - [Task 20] Movie 67b7392ccbb2ac9e5382f321 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,412 - logger - WARNING - [Task 21] Movie 67b7392ccbb2ac9e5382f32e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 22] Movie 67b7393dcbb2ac9e5382f340 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 23] Movie 67b7393dcbb2ac9e5382f349 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 24] Movie 67b7393dcbb2ac9e5382f35b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 25] Movie 67b7393dcbb2ac9e5382f361 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 26] Movie 67b7393dcbb2ac9e5382f362 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 27] Movie 67b7393dcbb2ac9e5382f36b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 28] Movie 67b7393dcbb2ac9e5382f36f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,414 - logger - WARNING - [Task 29] Movie 67b7393dcbb2ac9e5382f370 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,415 - logger - WARNING - [Task 30] Movie 67b7393dcbb2ac9e5382f378 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,415 - logger - WARNING - [Task 31] Movie 67b7393dcbb2ac9e5382f37b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,415 - logger - WARNING - [Task 32] Movie 67b7393dcbb2ac9e5382f37e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,415 - logger - WARNING - [Task 33] Movie 67b7393dcbb2ac9e5382f383 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,415 - logger - WARNING - [Task 34] Movie 67b7393ecbb2ac9e5382f386 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,416 - logger - WARNING - [Task 35] Movie 67b7393ecbb2ac9e5382f391 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,416 - logger - WARNING - [Task 36] Movie 67b73951cbb2ac9e5382f39c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,416 - logger - WARNING - [Task 37] Movie 67b73951cbb2ac9e5382f39f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,416 - logger - WARNING - [Task 38] Movie 67b73951cbb2ac9e5382f3a3 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,416 - logger - WARNING - [Task 39] Movie 67b73951cbb2ac9e5382f3a4 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,418 - logger - WARNING - [Task 40] Movie 67b73951cbb2ac9e5382f3a7 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,418 - logger - WARNING - [Task 41] Movie 67b73951cbb2ac9e5382f3aa has no IMDb ID. Skipping.
+2025-02-21 21:27:17,418 - logger - WARNING - [Task 42] Movie 67b73952cbb2ac9e5382f3ae has no IMDb ID. Skipping.
+2025-02-21 21:27:17,419 - logger - WARNING - [Task 43] Movie 67b73952cbb2ac9e5382f3b6 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,419 - logger - WARNING - [Task 44] Movie 67b73952cbb2ac9e5382f3c1 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,419 - logger - WARNING - [Task 45] Movie 67b73952cbb2ac9e5382f3c5 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,419 - logger - WARNING - [Task 46] Movie 67b73952cbb2ac9e5382f3ca has no IMDb ID. Skipping.
+2025-02-21 21:27:17,420 - logger - WARNING - [Task 47] Movie 67b73952cbb2ac9e5382f3cf has no IMDb ID. Skipping.
+2025-02-21 21:27:17,420 - logger - WARNING - [Task 48] Movie 67b73952cbb2ac9e5382f3d1 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,420 - logger - WARNING - [Task 49] Movie 67b73952cbb2ac9e5382f3d2 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,420 - logger - WARNING - [Task 50] Movie 67b73952cbb2ac9e5382f3d3 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,420 - logger - WARNING - [Task 51] Movie 67b73952cbb2ac9e5382f3dc has no IMDb ID. Skipping.
+2025-02-21 21:27:17,421 - logger - WARNING - [Task 52] Movie 67b73952cbb2ac9e5382f3e9 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,421 - logger - WARNING - [Task 53] Movie 67b73952cbb2ac9e5382f3ec has no IMDb ID. Skipping.
+2025-02-21 21:27:17,421 - logger - WARNING - [Task 54] Movie 67b73952cbb2ac9e5382f3ed has no IMDb ID. Skipping.
+2025-02-21 21:27:17,421 - logger - WARNING - [Task 55] Movie 67b73952cbb2ac9e5382f3f4 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,422 - logger - WARNING - [Task 56] Movie 67b73963cbb2ac9e5382f401 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,422 - logger - WARNING - [Task 57] Movie 67b73963cbb2ac9e5382f403 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,422 - logger - WARNING - [Task 58] Movie 67b73963cbb2ac9e5382f404 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,422 - logger - WARNING - [Task 59] Movie 67b73963cbb2ac9e5382f405 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,423 - logger - WARNING - [Task 60] Movie 67b73963cbb2ac9e5382f406 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,423 - logger - WARNING - [Task 61] Movie 67b73963cbb2ac9e5382f408 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,423 - logger - WARNING - [Task 62] Movie 67b73963cbb2ac9e5382f409 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,423 - logger - WARNING - [Task 63] Movie 67b73963cbb2ac9e5382f40b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,424 - logger - WARNING - [Task 64] Movie 67b73963cbb2ac9e5382f40d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,424 - logger - WARNING - [Task 65] Movie 67b73963cbb2ac9e5382f40e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,424 - logger - WARNING - [Task 66] Movie 67b73963cbb2ac9e5382f40f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,424 - logger - WARNING - [Task 67] Movie 67b73963cbb2ac9e5382f410 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,424 - logger - WARNING - [Task 68] Movie 67b73963cbb2ac9e5382f411 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,424 - logger - WARNING - [Task 69] Movie 67b73964cbb2ac9e5382f412 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,425 - logger - WARNING - [Task 70] Movie 67b73964cbb2ac9e5382f416 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,425 - logger - WARNING - [Task 71] Movie 67b73964cbb2ac9e5382f418 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,425 - logger - WARNING - [Task 72] Movie 67b73964cbb2ac9e5382f419 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,425 - logger - WARNING - [Task 73] Movie 67b73964cbb2ac9e5382f41b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,425 - logger - WARNING - [Task 74] Movie 67b73964cbb2ac9e5382f41c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,425 - logger - WARNING - [Task 75] Movie 67b73964cbb2ac9e5382f41e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,425 - logger - WARNING - [Task 76] Movie 67b73964cbb2ac9e5382f420 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,426 - logger - WARNING - [Task 77] Movie 67b73964cbb2ac9e5382f422 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,426 - logger - WARNING - [Task 78] Movie 67b73964cbb2ac9e5382f426 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,426 - logger - WARNING - [Task 79] Movie 67b73964cbb2ac9e5382f429 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,426 - logger - WARNING - [Task 80] Movie 67b73964cbb2ac9e5382f42c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,426 - logger - WARNING - [Task 81] Movie 67b73964cbb2ac9e5382f42d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,426 - logger - WARNING - [Task 82] Movie 67b73964cbb2ac9e5382f439 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,426 - logger - WARNING - [Task 83] Movie 67b73964cbb2ac9e5382f43a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,427 - logger - WARNING - [Task 84] Movie 67b73964cbb2ac9e5382f449 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,427 - logger - WARNING - [Task 85] Movie 67b73964cbb2ac9e5382f451 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,427 - logger - WARNING - [Task 86] Movie 67b73964cbb2ac9e5382f452 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,427 - logger - WARNING - [Task 87] Movie 67b73964cbb2ac9e5382f454 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,427 - logger - WARNING - [Task 88] Movie 67b73964cbb2ac9e5382f45c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,428 - logger - WARNING - [Task 89] Movie 67b73964cbb2ac9e5382f45f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,428 - logger - WARNING - [Task 90] Movie 67b73964cbb2ac9e5382f460 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,428 - logger - WARNING - [Task 91] Movie 67b73979cbb2ac9e5382f464 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,428 - logger - WARNING - [Task 92] Movie 67b73979cbb2ac9e5382f465 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,429 - logger - WARNING - [Task 93] Movie 67b73979cbb2ac9e5382f466 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,429 - logger - WARNING - [Task 94] Movie 67b73979cbb2ac9e5382f46b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,429 - logger - WARNING - [Task 95] Movie 67b73979cbb2ac9e5382f46c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,430 - logger - WARNING - [Task 96] Movie 67b73979cbb2ac9e5382f474 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,430 - logger - WARNING - [Task 97] Movie 67b73979cbb2ac9e5382f479 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,431 - logger - WARNING - [Task 98] Movie 67b73979cbb2ac9e5382f47a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,431 - logger - WARNING - [Task 99] Movie 67b73979cbb2ac9e5382f47c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,431 - logger - WARNING - [Task 100] Movie 67b73979cbb2ac9e5382f480 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,431 - logger - WARNING - [Task 101] Movie 67b73979cbb2ac9e5382f485 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,432 - logger - WARNING - [Task 102] Movie 67b73979cbb2ac9e5382f487 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,432 - logger - WARNING - [Task 103] Movie 67b73979cbb2ac9e5382f48a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,432 - logger - WARNING - [Task 104] Movie 67b73979cbb2ac9e5382f48c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,432 - logger - WARNING - [Task 105] Movie 67b73979cbb2ac9e5382f48d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,432 - logger - WARNING - [Task 106] Movie 67b73979cbb2ac9e5382f490 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,432 - logger - WARNING - [Task 107] Movie 67b73979cbb2ac9e5382f494 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,433 - logger - WARNING - [Task 108] Movie 67b73979cbb2ac9e5382f496 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,433 - logger - WARNING - [Task 109] Movie 67b73979cbb2ac9e5382f499 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,435 - logger - WARNING - [Task 110] Movie 67b73979cbb2ac9e5382f49a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,435 - logger - WARNING - [Task 111] Movie 67b73979cbb2ac9e5382f49c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,435 - logger - WARNING - [Task 112] Movie 67b73979cbb2ac9e5382f4a4 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,435 - logger - WARNING - [Task 113] Movie 67b73979cbb2ac9e5382f4a5 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,435 - logger - WARNING - [Task 114] Movie 67b73979cbb2ac9e5382f4a6 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,436 - logger - WARNING - [Task 115] Movie 67b73979cbb2ac9e5382f4a8 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,436 - logger - WARNING - [Task 116] Movie 67b73979cbb2ac9e5382f4aa has no IMDb ID. Skipping.
+2025-02-21 21:27:17,436 - logger - WARNING - [Task 117] Movie 67b73979cbb2ac9e5382f4ae has no IMDb ID. Skipping.
+2025-02-21 21:27:17,436 - logger - WARNING - [Task 118] Movie 67b73979cbb2ac9e5382f4b1 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 119] Movie 67b7397bcbb2ac9e5382f4b5 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 120] Movie 67b7397bcbb2ac9e5382f4b7 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 121] Movie 67b7397bcbb2ac9e5382f4bb has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 122] Movie 67b7397bcbb2ac9e5382f4c0 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 123] Movie 67b7397bcbb2ac9e5382f4c4 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 124] Movie 67b7398fcbb2ac9e5382f4c8 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 125] Movie 67b7398fcbb2ac9e5382f4d0 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 126] Movie 67b7398fcbb2ac9e5382f4d1 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,437 - logger - WARNING - [Task 127] Movie 67b7398fcbb2ac9e5382f4d2 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,438 - logger - WARNING - [Task 128] Movie 67b7398fcbb2ac9e5382f4d4 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,438 - logger - WARNING - [Task 129] Movie 67b7398fcbb2ac9e5382f4d5 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,438 - logger - WARNING - [Task 130] Movie 67b7398fcbb2ac9e5382f4d6 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,438 - logger - WARNING - [Task 131] Movie 67b7398fcbb2ac9e5382f4da has no IMDb ID. Skipping.
+2025-02-21 21:27:17,438 - logger - WARNING - [Task 132] Movie 67b7398fcbb2ac9e5382f4dc has no IMDb ID. Skipping.
+2025-02-21 21:27:17,439 - logger - WARNING - [Task 133] Movie 67b7398fcbb2ac9e5382f4e3 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,439 - logger - WARNING - [Task 134] Movie 67b7398fcbb2ac9e5382f4e7 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,439 - logger - WARNING - [Task 135] Movie 67b7398fcbb2ac9e5382f4e9 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,439 - logger - WARNING - [Task 136] Movie 67b7398fcbb2ac9e5382f4eb has no IMDb ID. Skipping.
+2025-02-21 21:27:17,440 - logger - WARNING - [Task 137] Movie 67b7398fcbb2ac9e5382f4ec has no IMDb ID. Skipping.
+2025-02-21 21:27:17,440 - logger - WARNING - [Task 138] Movie 67b7398fcbb2ac9e5382f4ee has no IMDb ID. Skipping.
+2025-02-21 21:27:17,440 - logger - WARNING - [Task 139] Movie 67b7398fcbb2ac9e5382f4ef has no IMDb ID. Skipping.
+2025-02-21 21:27:17,440 - logger - WARNING - [Task 140] Movie 67b7398fcbb2ac9e5382f4f0 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,442 - logger - WARNING - [Task 141] Movie 67b7398fcbb2ac9e5382f4f1 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,442 - logger - WARNING - [Task 142] Movie 67b7398fcbb2ac9e5382f4f2 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,442 - logger - WARNING - [Task 143] Movie 67b7398fcbb2ac9e5382f4f3 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,442 - logger - WARNING - [Task 144] Movie 67b7398fcbb2ac9e5382f4f5 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,443 - logger - WARNING - [Task 145] Movie 67b7398fcbb2ac9e5382f4f6 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,443 - logger - WARNING - [Task 146] Movie 67b7398fcbb2ac9e5382f4f7 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,443 - logger - WARNING - [Task 147] Movie 67b7398fcbb2ac9e5382f4f8 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,443 - logger - WARNING - [Task 148] Movie 67b7398fcbb2ac9e5382f4f9 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,443 - logger - WARNING - [Task 149] Movie 67b7398fcbb2ac9e5382f4fb has no IMDb ID. Skipping.
+2025-02-21 21:27:17,443 - logger - WARNING - [Task 150] Movie 67b7398fcbb2ac9e5382f500 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,444 - logger - WARNING - [Task 151] Movie 67b7398fcbb2ac9e5382f502 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,444 - logger - WARNING - [Task 152] Movie 67b7398fcbb2ac9e5382f506 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,444 - logger - WARNING - [Task 153] Movie 67b7398fcbb2ac9e5382f509 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,444 - logger - WARNING - [Task 154] Movie 67b7398fcbb2ac9e5382f50d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,445 - logger - WARNING - [Task 155] Movie 67b7398fcbb2ac9e5382f511 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,445 - logger - WARNING - [Task 156] Movie 67b7398fcbb2ac9e5382f512 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,445 - logger - WARNING - [Task 157] Movie 67b7398fcbb2ac9e5382f513 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,446 - logger - WARNING - [Task 158] Movie 67b73990cbb2ac9e5382f518 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,446 - logger - WARNING - [Task 159] Movie 67b73990cbb2ac9e5382f51a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,447 - logger - WARNING - [Task 160] Movie 67b73990cbb2ac9e5382f51c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,447 - logger - WARNING - [Task 161] Movie 67b73990cbb2ac9e5382f51d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,449 - logger - WARNING - [Task 162] Movie 67b73990cbb2ac9e5382f522 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,450 - logger - WARNING - [Task 163] Movie 67b73990cbb2ac9e5382f527 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,450 - logger - WARNING - [Task 164] Movie 67b7399bcbb2ac9e5382f52a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,451 - logger - WARNING - [Task 165] Movie 67b7399bcbb2ac9e5382f52b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,452 - logger - WARNING - [Task 166] Movie 67b7399bcbb2ac9e5382f52c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,452 - logger - WARNING - [Task 167] Movie 67b7399bcbb2ac9e5382f52d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,452 - logger - WARNING - [Task 168] Movie 67b7399bcbb2ac9e5382f52e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,452 - logger - WARNING - [Task 169] Movie 67b7399bcbb2ac9e5382f52f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,452 - logger - WARNING - [Task 170] Movie 67b7399bcbb2ac9e5382f530 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,453 - logger - WARNING - [Task 171] Movie 67b7399bcbb2ac9e5382f531 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,453 - logger - WARNING - [Task 172] Movie 67b7399bcbb2ac9e5382f532 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,453 - logger - WARNING - [Task 173] Movie 67b7399bcbb2ac9e5382f533 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,453 - logger - WARNING - [Task 174] Movie 67b7399bcbb2ac9e5382f534 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,453 - logger - WARNING - [Task 175] Movie 67b7399bcbb2ac9e5382f535 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,455 - logger - WARNING - [Task 176] Movie 67b7399bcbb2ac9e5382f536 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,455 - logger - WARNING - [Task 177] Movie 67b7399bcbb2ac9e5382f537 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,455 - logger - WARNING - [Task 178] Movie 67b7399bcbb2ac9e5382f538 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,455 - logger - WARNING - [Task 179] Movie 67b7399bcbb2ac9e5382f539 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,456 - logger - WARNING - [Task 180] Movie 67b7399bcbb2ac9e5382f53a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,456 - logger - WARNING - [Task 181] Movie 67b7399bcbb2ac9e5382f53d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,456 - logger - WARNING - [Task 182] Movie 67b739a2cbb2ac9e5382f53e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,456 - logger - WARNING - [Task 183] Movie 67b739a2cbb2ac9e5382f53f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,457 - logger - WARNING - [Task 184] Movie 67b739a2cbb2ac9e5382f540 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,457 - logger - WARNING - [Task 185] Movie 67b739a2cbb2ac9e5382f541 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,457 - logger - WARNING - [Task 186] Movie 67b739a2cbb2ac9e5382f542 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,457 - logger - WARNING - [Task 187] Movie 67b739a2cbb2ac9e5382f544 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,458 - logger - WARNING - [Task 188] Movie 67b739a2cbb2ac9e5382f545 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,458 - logger - WARNING - [Task 189] Movie 67b739a2cbb2ac9e5382f547 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,458 - logger - WARNING - [Task 190] Movie 67b739a2cbb2ac9e5382f54a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,459 - logger - WARNING - [Task 191] Movie 67b739a2cbb2ac9e5382f54b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,459 - logger - WARNING - [Task 192] Movie 67b739a2cbb2ac9e5382f54e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,459 - logger - WARNING - [Task 193] Movie 67b739a2cbb2ac9e5382f551 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,460 - logger - WARNING - [Task 194] Movie 67b739a2cbb2ac9e5382f552 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,460 - logger - WARNING - [Task 195] Movie 67b739a2cbb2ac9e5382f553 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,460 - logger - WARNING - [Task 196] Movie 67b739a2cbb2ac9e5382f554 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,460 - logger - WARNING - [Task 197] Movie 67b739a2cbb2ac9e5382f555 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,461 - logger - WARNING - [Task 198] Movie 67b739a2cbb2ac9e5382f556 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,461 - logger - WARNING - [Task 199] Movie 67b739a2cbb2ac9e5382f559 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,461 - logger - WARNING - [Task 200] Movie 67b739a2cbb2ac9e5382f55b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,462 - logger - WARNING - [Task 201] Movie 67b739a2cbb2ac9e5382f55d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,462 - logger - WARNING - [Task 202] Movie 67b739a2cbb2ac9e5382f55e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,462 - logger - WARNING - [Task 203] Movie 67b739a2cbb2ac9e5382f55f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,463 - logger - WARNING - [Task 204] Movie 67b739a2cbb2ac9e5382f560 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,463 - logger - WARNING - [Task 205] Movie 67b739a2cbb2ac9e5382f562 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,463 - logger - WARNING - [Task 206] Movie 67b739a2cbb2ac9e5382f563 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,463 - logger - WARNING - [Task 207] Movie 67b739a3cbb2ac9e5382f568 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,463 - logger - WARNING - [Task 208] Movie 67b739a3cbb2ac9e5382f56a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,464 - logger - WARNING - [Task 209] Movie 67b739a3cbb2ac9e5382f56c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,464 - logger - WARNING - [Task 210] Movie 67b739a3cbb2ac9e5382f56d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,464 - logger - WARNING - [Task 211] Movie 67b739a3cbb2ac9e5382f56e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,464 - logger - WARNING - [Task 212] Movie 67b739a3cbb2ac9e5382f56f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,464 - logger - WARNING - [Task 213] Movie 67b739a3cbb2ac9e5382f570 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,464 - logger - WARNING - [Task 214] Movie 67b739a3cbb2ac9e5382f571 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,465 - logger - WARNING - [Task 215] Movie 67b739a3cbb2ac9e5382f572 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,465 - logger - WARNING - [Task 216] Movie 67b739a3cbb2ac9e5382f573 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,465 - logger - WARNING - [Task 217] Movie 67b739a3cbb2ac9e5382f574 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,465 - logger - WARNING - [Task 218] Movie 67b739a3cbb2ac9e5382f575 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,465 - logger - WARNING - [Task 219] Movie 67b739a3cbb2ac9e5382f578 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,465 - logger - WARNING - [Task 220] Movie 67b739a3cbb2ac9e5382f57c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,466 - logger - WARNING - [Task 221] Movie 67b739a3cbb2ac9e5382f57d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,466 - logger - WARNING - [Task 222] Movie 67b739a3cbb2ac9e5382f57e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,466 - logger - WARNING - [Task 223] Movie 67b739a3cbb2ac9e5382f580 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,466 - logger - WARNING - [Task 224] Movie 67b739a3cbb2ac9e5382f581 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,466 - logger - WARNING - [Task 225] Movie 67b739a3cbb2ac9e5382f582 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,468 - logger - WARNING - [Task 226] Movie 67b739a3cbb2ac9e5382f584 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,468 - logger - WARNING - [Task 227] Movie 67b739a3cbb2ac9e5382f585 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,468 - logger - WARNING - [Task 228] Movie 67b739a3cbb2ac9e5382f588 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,468 - logger - WARNING - [Task 229] Movie 67b739a3cbb2ac9e5382f58a has no IMDb ID. Skipping.
+2025-02-21 21:27:17,468 - logger - WARNING - [Task 230] Movie 67b739a3cbb2ac9e5382f58b has no IMDb ID. Skipping.
+2025-02-21 21:27:17,468 - logger - WARNING - [Task 231] Movie 67b739a3cbb2ac9e5382f58c has no IMDb ID. Skipping.
+2025-02-21 21:27:17,469 - logger - WARNING - [Task 232] Movie 67b739a3cbb2ac9e5382f58d has no IMDb ID. Skipping.
+2025-02-21 21:27:17,469 - logger - WARNING - [Task 233] Movie 67b739b7cbb2ac9e5382f58e has no IMDb ID. Skipping.
+2025-02-21 21:27:17,469 - logger - WARNING - [Task 234] Movie 67b739b7cbb2ac9e5382f58f has no IMDb ID. Skipping.
+2025-02-21 21:27:17,469 - logger - WARNING - [Task 235] Movie 67b739b7cbb2ac9e5382f593 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,470 - logger - WARNING - [Task 236] Movie 67b739b7cbb2ac9e5382f594 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,470 - logger - WARNING - [Task 237] Movie 67b739b7cbb2ac9e5382f596 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,470 - logger - WARNING - [Task 238] Movie 67b739b7cbb2ac9e5382f597 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,470 - logger - WARNING - [Task 239] Movie 67b739b7cbb2ac9e5382f598 has no IMDb ID. Skipping.
+2025-02-21 21:27:17,470 - logger - INFO - All movies have been processed.
+2025-02-21 21:27:17,473 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-21 21:42:13,508 - logger - INFO - Connected to MongoDB!
+2025-02-21 21:42:13,526 - logger - INFO - Found 239 movies to update.
+2025-02-21 21:42:13,526 - logger - WARNING - [Task 1] Movie 67b738b1cbb2ac9e5382f059 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,527 - logger - WARNING - [Task 2] Movie 67b738d3cbb2ac9e5382f0f8 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,527 - logger - WARNING - [Task 3] Movie 67b738ddcbb2ac9e5382f15a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,527 - logger - WARNING - [Task 4] Movie 67b738f1cbb2ac9e5382f1cb has no IMDb ID. Skipping.
+2025-02-21 21:42:13,528 - logger - WARNING - [Task 5] Movie 67b738f6cbb2ac9e5382f1e2 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,528 - logger - WARNING - [Task 6] Movie 67b73905cbb2ac9e5382f219 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,528 - logger - WARNING - [Task 7] Movie 67b7390ccbb2ac9e5382f265 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,528 - logger - WARNING - [Task 8] Movie 67b73918cbb2ac9e5382f283 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,528 - logger - WARNING - [Task 9] Movie 67b73918cbb2ac9e5382f293 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,528 - logger - WARNING - [Task 10] Movie 67b7391ecbb2ac9e5382f2a8 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 11] Movie 67b7391ecbb2ac9e5382f2ad has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 12] Movie 67b7391fcbb2ac9e5382f2c4 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 13] Movie 67b7391fcbb2ac9e5382f2cc has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 14] Movie 67b7392ccbb2ac9e5382f2d5 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 15] Movie 67b7392ccbb2ac9e5382f2e8 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 16] Movie 67b7392ccbb2ac9e5382f2fc has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 17] Movie 67b7392ccbb2ac9e5382f2fe has no IMDb ID. Skipping.
+2025-02-21 21:42:13,529 - logger - WARNING - [Task 18] Movie 67b7392ccbb2ac9e5382f302 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,530 - logger - WARNING - [Task 19] Movie 67b7392ccbb2ac9e5382f30a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,530 - logger - WARNING - [Task 20] Movie 67b7392ccbb2ac9e5382f321 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,530 - logger - WARNING - [Task 21] Movie 67b7392ccbb2ac9e5382f32e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,530 - logger - WARNING - [Task 22] Movie 67b7393dcbb2ac9e5382f340 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,530 - logger - WARNING - [Task 23] Movie 67b7393dcbb2ac9e5382f349 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,530 - logger - WARNING - [Task 24] Movie 67b7393dcbb2ac9e5382f35b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,531 - logger - WARNING - [Task 25] Movie 67b7393dcbb2ac9e5382f361 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,531 - logger - WARNING - [Task 26] Movie 67b7393dcbb2ac9e5382f362 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,531 - logger - WARNING - [Task 27] Movie 67b7393dcbb2ac9e5382f36b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,531 - logger - WARNING - [Task 28] Movie 67b7393dcbb2ac9e5382f36f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,531 - logger - WARNING - [Task 29] Movie 67b7393dcbb2ac9e5382f370 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,532 - logger - WARNING - [Task 30] Movie 67b7393dcbb2ac9e5382f378 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,532 - logger - WARNING - [Task 31] Movie 67b7393dcbb2ac9e5382f37b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,532 - logger - WARNING - [Task 32] Movie 67b7393dcbb2ac9e5382f37e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,532 - logger - WARNING - [Task 33] Movie 67b7393dcbb2ac9e5382f383 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,532 - logger - WARNING - [Task 34] Movie 67b7393ecbb2ac9e5382f386 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,534 - logger - WARNING - [Task 35] Movie 67b7393ecbb2ac9e5382f391 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,534 - logger - WARNING - [Task 36] Movie 67b73951cbb2ac9e5382f39c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,534 - logger - WARNING - [Task 37] Movie 67b73951cbb2ac9e5382f39f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,534 - logger - WARNING - [Task 38] Movie 67b73951cbb2ac9e5382f3a3 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,534 - logger - WARNING - [Task 39] Movie 67b73951cbb2ac9e5382f3a4 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,534 - logger - WARNING - [Task 40] Movie 67b73951cbb2ac9e5382f3a7 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,534 - logger - WARNING - [Task 41] Movie 67b73951cbb2ac9e5382f3aa has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 42] Movie 67b73952cbb2ac9e5382f3ae has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 43] Movie 67b73952cbb2ac9e5382f3b6 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 44] Movie 67b73952cbb2ac9e5382f3c1 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 45] Movie 67b73952cbb2ac9e5382f3c5 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 46] Movie 67b73952cbb2ac9e5382f3ca has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 47] Movie 67b73952cbb2ac9e5382f3cf has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 48] Movie 67b73952cbb2ac9e5382f3d1 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,535 - logger - WARNING - [Task 49] Movie 67b73952cbb2ac9e5382f3d2 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 50] Movie 67b73952cbb2ac9e5382f3d3 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 51] Movie 67b73952cbb2ac9e5382f3dc has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 52] Movie 67b73952cbb2ac9e5382f3e9 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 53] Movie 67b73952cbb2ac9e5382f3ec has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 54] Movie 67b73952cbb2ac9e5382f3ed has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 55] Movie 67b73952cbb2ac9e5382f3f4 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 56] Movie 67b73963cbb2ac9e5382f401 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,536 - logger - WARNING - [Task 57] Movie 67b73963cbb2ac9e5382f403 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 58] Movie 67b73963cbb2ac9e5382f404 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 59] Movie 67b73963cbb2ac9e5382f405 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 60] Movie 67b73963cbb2ac9e5382f406 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 61] Movie 67b73963cbb2ac9e5382f408 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 62] Movie 67b73963cbb2ac9e5382f409 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 63] Movie 67b73963cbb2ac9e5382f40b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 64] Movie 67b73963cbb2ac9e5382f40d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,537 - logger - WARNING - [Task 65] Movie 67b73963cbb2ac9e5382f40e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,538 - logger - WARNING - [Task 66] Movie 67b73963cbb2ac9e5382f40f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,538 - logger - WARNING - [Task 67] Movie 67b73963cbb2ac9e5382f410 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,538 - logger - WARNING - [Task 68] Movie 67b73963cbb2ac9e5382f411 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,538 - logger - WARNING - [Task 69] Movie 67b73964cbb2ac9e5382f412 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,538 - logger - WARNING - [Task 70] Movie 67b73964cbb2ac9e5382f416 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,538 - logger - WARNING - [Task 71] Movie 67b73964cbb2ac9e5382f418 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 72] Movie 67b73964cbb2ac9e5382f419 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 73] Movie 67b73964cbb2ac9e5382f41b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 74] Movie 67b73964cbb2ac9e5382f41c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 75] Movie 67b73964cbb2ac9e5382f41e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 76] Movie 67b73964cbb2ac9e5382f420 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 77] Movie 67b73964cbb2ac9e5382f422 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 78] Movie 67b73964cbb2ac9e5382f426 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 79] Movie 67b73964cbb2ac9e5382f429 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 80] Movie 67b73964cbb2ac9e5382f42c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,539 - logger - WARNING - [Task 81] Movie 67b73964cbb2ac9e5382f42d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 82] Movie 67b73964cbb2ac9e5382f439 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 83] Movie 67b73964cbb2ac9e5382f43a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 84] Movie 67b73964cbb2ac9e5382f449 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 85] Movie 67b73964cbb2ac9e5382f451 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 86] Movie 67b73964cbb2ac9e5382f452 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 87] Movie 67b73964cbb2ac9e5382f454 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 88] Movie 67b73964cbb2ac9e5382f45c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 89] Movie 67b73964cbb2ac9e5382f45f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 90] Movie 67b73964cbb2ac9e5382f460 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,541 - logger - WARNING - [Task 91] Movie 67b73979cbb2ac9e5382f464 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 92] Movie 67b73979cbb2ac9e5382f465 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 93] Movie 67b73979cbb2ac9e5382f466 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 94] Movie 67b73979cbb2ac9e5382f46b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 95] Movie 67b73979cbb2ac9e5382f46c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 96] Movie 67b73979cbb2ac9e5382f474 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 97] Movie 67b73979cbb2ac9e5382f479 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 98] Movie 67b73979cbb2ac9e5382f47a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 99] Movie 67b73979cbb2ac9e5382f47c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,542 - logger - WARNING - [Task 100] Movie 67b73979cbb2ac9e5382f480 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 101] Movie 67b73979cbb2ac9e5382f485 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 102] Movie 67b73979cbb2ac9e5382f487 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 103] Movie 67b73979cbb2ac9e5382f48a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 104] Movie 67b73979cbb2ac9e5382f48c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 105] Movie 67b73979cbb2ac9e5382f48d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 106] Movie 67b73979cbb2ac9e5382f490 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 107] Movie 67b73979cbb2ac9e5382f494 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,543 - logger - WARNING - [Task 108] Movie 67b73979cbb2ac9e5382f496 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,544 - logger - WARNING - [Task 109] Movie 67b73979cbb2ac9e5382f499 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,544 - logger - WARNING - [Task 110] Movie 67b73979cbb2ac9e5382f49a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,544 - logger - WARNING - [Task 111] Movie 67b73979cbb2ac9e5382f49c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,544 - logger - WARNING - [Task 112] Movie 67b73979cbb2ac9e5382f4a4 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,544 - logger - WARNING - [Task 113] Movie 67b73979cbb2ac9e5382f4a5 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,544 - logger - WARNING - [Task 114] Movie 67b73979cbb2ac9e5382f4a6 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,544 - logger - WARNING - [Task 115] Movie 67b73979cbb2ac9e5382f4a8 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 116] Movie 67b73979cbb2ac9e5382f4aa has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 117] Movie 67b73979cbb2ac9e5382f4ae has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 118] Movie 67b73979cbb2ac9e5382f4b1 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 119] Movie 67b7397bcbb2ac9e5382f4b5 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 120] Movie 67b7397bcbb2ac9e5382f4b7 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 121] Movie 67b7397bcbb2ac9e5382f4bb has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 122] Movie 67b7397bcbb2ac9e5382f4c0 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,545 - logger - WARNING - [Task 123] Movie 67b7397bcbb2ac9e5382f4c4 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,546 - logger - WARNING - [Task 124] Movie 67b7398fcbb2ac9e5382f4c8 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,546 - logger - WARNING - [Task 125] Movie 67b7398fcbb2ac9e5382f4d0 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,546 - logger - WARNING - [Task 126] Movie 67b7398fcbb2ac9e5382f4d1 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,546 - logger - WARNING - [Task 127] Movie 67b7398fcbb2ac9e5382f4d2 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,546 - logger - WARNING - [Task 128] Movie 67b7398fcbb2ac9e5382f4d4 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,546 - logger - WARNING - [Task 129] Movie 67b7398fcbb2ac9e5382f4d5 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,547 - logger - WARNING - [Task 130] Movie 67b7398fcbb2ac9e5382f4d6 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,547 - logger - WARNING - [Task 131] Movie 67b7398fcbb2ac9e5382f4da has no IMDb ID. Skipping.
+2025-02-21 21:42:13,547 - logger - WARNING - [Task 132] Movie 67b7398fcbb2ac9e5382f4dc has no IMDb ID. Skipping.
+2025-02-21 21:42:13,547 - logger - WARNING - [Task 133] Movie 67b7398fcbb2ac9e5382f4e3 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,548 - logger - WARNING - [Task 134] Movie 67b7398fcbb2ac9e5382f4e7 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,548 - logger - WARNING - [Task 135] Movie 67b7398fcbb2ac9e5382f4e9 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,548 - logger - WARNING - [Task 136] Movie 67b7398fcbb2ac9e5382f4eb has no IMDb ID. Skipping.
+2025-02-21 21:42:13,548 - logger - WARNING - [Task 137] Movie 67b7398fcbb2ac9e5382f4ec has no IMDb ID. Skipping.
+2025-02-21 21:42:13,548 - logger - WARNING - [Task 138] Movie 67b7398fcbb2ac9e5382f4ee has no IMDb ID. Skipping.
+2025-02-21 21:42:13,549 - logger - WARNING - [Task 139] Movie 67b7398fcbb2ac9e5382f4ef has no IMDb ID. Skipping.
+2025-02-21 21:42:13,549 - logger - WARNING - [Task 140] Movie 67b7398fcbb2ac9e5382f4f0 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,549 - logger - WARNING - [Task 141] Movie 67b7398fcbb2ac9e5382f4f1 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,549 - logger - WARNING - [Task 142] Movie 67b7398fcbb2ac9e5382f4f2 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,549 - logger - WARNING - [Task 143] Movie 67b7398fcbb2ac9e5382f4f3 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,550 - logger - WARNING - [Task 144] Movie 67b7398fcbb2ac9e5382f4f5 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,550 - logger - WARNING - [Task 145] Movie 67b7398fcbb2ac9e5382f4f6 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,550 - logger - WARNING - [Task 146] Movie 67b7398fcbb2ac9e5382f4f7 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,550 - logger - WARNING - [Task 147] Movie 67b7398fcbb2ac9e5382f4f8 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,550 - logger - WARNING - [Task 148] Movie 67b7398fcbb2ac9e5382f4f9 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,550 - logger - WARNING - [Task 149] Movie 67b7398fcbb2ac9e5382f4fb has no IMDb ID. Skipping.
+2025-02-21 21:42:13,550 - logger - WARNING - [Task 150] Movie 67b7398fcbb2ac9e5382f500 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,552 - logger - WARNING - [Task 151] Movie 67b7398fcbb2ac9e5382f502 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,552 - logger - WARNING - [Task 152] Movie 67b7398fcbb2ac9e5382f506 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,552 - logger - WARNING - [Task 153] Movie 67b7398fcbb2ac9e5382f509 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,552 - logger - WARNING - [Task 154] Movie 67b7398fcbb2ac9e5382f50d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,552 - logger - WARNING - [Task 155] Movie 67b7398fcbb2ac9e5382f511 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,552 - logger - WARNING - [Task 156] Movie 67b7398fcbb2ac9e5382f512 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,553 - logger - WARNING - [Task 157] Movie 67b7398fcbb2ac9e5382f513 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,553 - logger - WARNING - [Task 158] Movie 67b73990cbb2ac9e5382f518 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,553 - logger - WARNING - [Task 159] Movie 67b73990cbb2ac9e5382f51a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,553 - logger - WARNING - [Task 160] Movie 67b73990cbb2ac9e5382f51c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,553 - logger - WARNING - [Task 161] Movie 67b73990cbb2ac9e5382f51d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,553 - logger - WARNING - [Task 162] Movie 67b73990cbb2ac9e5382f522 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,554 - logger - WARNING - [Task 163] Movie 67b73990cbb2ac9e5382f527 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,554 - logger - WARNING - [Task 164] Movie 67b7399bcbb2ac9e5382f52a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,554 - logger - WARNING - [Task 165] Movie 67b7399bcbb2ac9e5382f52b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,554 - logger - WARNING - [Task 166] Movie 67b7399bcbb2ac9e5382f52c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,554 - logger - WARNING - [Task 167] Movie 67b7399bcbb2ac9e5382f52d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,555 - logger - WARNING - [Task 168] Movie 67b7399bcbb2ac9e5382f52e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,555 - logger - WARNING - [Task 169] Movie 67b7399bcbb2ac9e5382f52f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,555 - logger - WARNING - [Task 170] Movie 67b7399bcbb2ac9e5382f530 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,555 - logger - WARNING - [Task 171] Movie 67b7399bcbb2ac9e5382f531 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,555 - logger - WARNING - [Task 172] Movie 67b7399bcbb2ac9e5382f532 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,555 - logger - WARNING - [Task 173] Movie 67b7399bcbb2ac9e5382f533 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,557 - logger - WARNING - [Task 174] Movie 67b7399bcbb2ac9e5382f534 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,557 - logger - WARNING - [Task 175] Movie 67b7399bcbb2ac9e5382f535 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,557 - logger - WARNING - [Task 176] Movie 67b7399bcbb2ac9e5382f536 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,557 - logger - WARNING - [Task 177] Movie 67b7399bcbb2ac9e5382f537 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,557 - logger - WARNING - [Task 178] Movie 67b7399bcbb2ac9e5382f538 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,557 - logger - WARNING - [Task 179] Movie 67b7399bcbb2ac9e5382f539 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 180] Movie 67b7399bcbb2ac9e5382f53a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 181] Movie 67b7399bcbb2ac9e5382f53d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 182] Movie 67b739a2cbb2ac9e5382f53e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 183] Movie 67b739a2cbb2ac9e5382f53f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 184] Movie 67b739a2cbb2ac9e5382f540 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 185] Movie 67b739a2cbb2ac9e5382f541 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 186] Movie 67b739a2cbb2ac9e5382f542 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,558 - logger - WARNING - [Task 187] Movie 67b739a2cbb2ac9e5382f544 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 188] Movie 67b739a2cbb2ac9e5382f545 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 189] Movie 67b739a2cbb2ac9e5382f547 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 190] Movie 67b739a2cbb2ac9e5382f54a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 191] Movie 67b739a2cbb2ac9e5382f54b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 192] Movie 67b739a2cbb2ac9e5382f54e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 193] Movie 67b739a2cbb2ac9e5382f551 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 194] Movie 67b739a2cbb2ac9e5382f552 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 195] Movie 67b739a2cbb2ac9e5382f553 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 196] Movie 67b739a2cbb2ac9e5382f554 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 197] Movie 67b739a2cbb2ac9e5382f555 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,559 - logger - WARNING - [Task 198] Movie 67b739a2cbb2ac9e5382f556 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 199] Movie 67b739a2cbb2ac9e5382f559 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 200] Movie 67b739a2cbb2ac9e5382f55b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 201] Movie 67b739a2cbb2ac9e5382f55d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 202] Movie 67b739a2cbb2ac9e5382f55e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 203] Movie 67b739a2cbb2ac9e5382f55f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 204] Movie 67b739a2cbb2ac9e5382f560 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 205] Movie 67b739a2cbb2ac9e5382f562 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,560 - logger - WARNING - [Task 206] Movie 67b739a2cbb2ac9e5382f563 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,561 - logger - WARNING - [Task 207] Movie 67b739a3cbb2ac9e5382f568 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,561 - logger - WARNING - [Task 208] Movie 67b739a3cbb2ac9e5382f56a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,561 - logger - WARNING - [Task 209] Movie 67b739a3cbb2ac9e5382f56c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,561 - logger - WARNING - [Task 210] Movie 67b739a3cbb2ac9e5382f56d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,561 - logger - WARNING - [Task 211] Movie 67b739a3cbb2ac9e5382f56e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,562 - logger - WARNING - [Task 212] Movie 67b739a3cbb2ac9e5382f56f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,562 - logger - WARNING - [Task 213] Movie 67b739a3cbb2ac9e5382f570 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,562 - logger - WARNING - [Task 214] Movie 67b739a3cbb2ac9e5382f571 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,562 - logger - WARNING - [Task 215] Movie 67b739a3cbb2ac9e5382f572 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,562 - logger - WARNING - [Task 216] Movie 67b739a3cbb2ac9e5382f573 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,562 - logger - WARNING - [Task 217] Movie 67b739a3cbb2ac9e5382f574 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,562 - logger - WARNING - [Task 218] Movie 67b739a3cbb2ac9e5382f575 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,564 - logger - WARNING - [Task 219] Movie 67b739a3cbb2ac9e5382f578 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,564 - logger - WARNING - [Task 220] Movie 67b739a3cbb2ac9e5382f57c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,564 - logger - WARNING - [Task 221] Movie 67b739a3cbb2ac9e5382f57d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,564 - logger - WARNING - [Task 222] Movie 67b739a3cbb2ac9e5382f57e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,565 - logger - WARNING - [Task 223] Movie 67b739a3cbb2ac9e5382f580 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,565 - logger - WARNING - [Task 224] Movie 67b739a3cbb2ac9e5382f581 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,565 - logger - WARNING - [Task 225] Movie 67b739a3cbb2ac9e5382f582 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,565 - logger - WARNING - [Task 226] Movie 67b739a3cbb2ac9e5382f584 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,566 - logger - WARNING - [Task 227] Movie 67b739a3cbb2ac9e5382f585 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,566 - logger - WARNING - [Task 228] Movie 67b739a3cbb2ac9e5382f588 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,566 - logger - WARNING - [Task 229] Movie 67b739a3cbb2ac9e5382f58a has no IMDb ID. Skipping.
+2025-02-21 21:42:13,566 - logger - WARNING - [Task 230] Movie 67b739a3cbb2ac9e5382f58b has no IMDb ID. Skipping.
+2025-02-21 21:42:13,566 - logger - WARNING - [Task 231] Movie 67b739a3cbb2ac9e5382f58c has no IMDb ID. Skipping.
+2025-02-21 21:42:13,567 - logger - WARNING - [Task 232] Movie 67b739a3cbb2ac9e5382f58d has no IMDb ID. Skipping.
+2025-02-21 21:42:13,567 - logger - WARNING - [Task 233] Movie 67b739b7cbb2ac9e5382f58e has no IMDb ID. Skipping.
+2025-02-21 21:42:13,567 - logger - WARNING - [Task 234] Movie 67b739b7cbb2ac9e5382f58f has no IMDb ID. Skipping.
+2025-02-21 21:42:13,568 - logger - WARNING - [Task 235] Movie 67b739b7cbb2ac9e5382f593 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,568 - logger - WARNING - [Task 236] Movie 67b739b7cbb2ac9e5382f594 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,568 - logger - WARNING - [Task 237] Movie 67b739b7cbb2ac9e5382f596 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,569 - logger - WARNING - [Task 238] Movie 67b739b7cbb2ac9e5382f597 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,569 - logger - WARNING - [Task 239] Movie 67b739b7cbb2ac9e5382f598 has no IMDb ID. Skipping.
+2025-02-21 21:42:13,569 - logger - INFO - All movies have been processed.
+2025-02-21 21:42:13,572 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-24 11:09:01,030 - logger - INFO - Connected to MongoDB!
+2025-02-24 11:09:01,072 - logger - INFO - Found 239 movies to update.
+2025-02-24 11:09:01,082 - logger - INFO - this is not a film or not yet released Extraworlds
+2025-02-24 11:09:01,083 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-24 11:09:35,662 - logger - INFO - Connected to MongoDB!
+2025-02-24 11:09:35,680 - logger - INFO - Found 239 movies to update.
+2025-02-24 11:09:36,551 - logger - INFO - this is not a film or not yet released Extraworlds
+2025-02-24 11:09:36,556 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-24 11:14:04,306 - logger - INFO - Connected to MongoDB!
+2025-02-24 11:14:04,345 - logger - INFO - Found 239 movies to update.
+2025-02-24 11:14:05,048 - logger - INFO - this is not a film or not yet released Extraworlds
+2025-02-24 11:14:05,048 - logger - INFO - this item  Extraworlds is deleted from the database.
+2025-02-24 11:14:05,052 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-24 11:36:27,136 - logger - INFO - Connected to MongoDB!
+2025-02-24 11:36:27,162 - logger - INFO - Found 239 movies to update.
+2025-02-24 11:36:27,926 - logger - INFO - this is not a film or not yet released Extraworlds
+2025-02-24 11:36:27,927 - logger - INFO - this item  Extraworlds is deleted from the database.
+2025-02-24 11:36:27,934 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-24 11:37:26,578 - logger - INFO - Connected to MongoDB!
+2025-02-24 11:37:26,597 - logger - INFO - Found 239 movies to update.
+2025-02-24 11:37:27,245 - logger - INFO - this is not a film or not yet released Extraworlds
+2025-02-24 11:37:27,246 - logger - INFO - this item  Extraworlds is deleted from the database.
+2025-02-24 11:37:27,252 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-24 11:42:22,632 - logger - INFO - Connected to MongoDB!
+2025-02-24 11:42:22,651 - logger - INFO - Found 238 movies to update.
+2025-02-24 11:42:22,912 - logger - WARNING - [Task 1] Movie 67b738d3cbb2ac9e5382f0f8 has no IMDb ID. Skipping.
+2025-02-24 11:42:23,066 - logger - WARNING - [Task 2] Movie 67b738ddcbb2ac9e5382f15a has no IMDb ID. Skipping.
+2025-02-24 11:42:23,219 - logger - WARNING - [Task 3] Movie 67b738f1cbb2ac9e5382f1cb has no IMDb ID. Skipping.
+2025-02-24 11:42:23,360 - logger - WARNING - [Task 4] Movie 67b738f6cbb2ac9e5382f1e2 has no IMDb ID. Skipping.
+2025-02-24 11:42:23,524 - logger - WARNING - [Task 5] Movie 67b73905cbb2ac9e5382f219 has no IMDb ID. Skipping.
+2025-02-24 11:42:23,686 - logger - WARNING - [Task 6] Movie 67b7390ccbb2ac9e5382f265 has no IMDb ID. Skipping.
+2025-02-24 11:42:23,824 - logger - WARNING - [Task 7] Movie 67b73918cbb2ac9e5382f283 has no IMDb ID. Skipping.
+2025-02-24 11:42:23,968 - logger - WARNING - [Task 8] Movie 67b73918cbb2ac9e5382f293 has no IMDb ID. Skipping.
+2025-02-24 11:42:24,278 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:24,278 - logger - INFO - this is not a film or not yet released The Plants vs Zombies Movie
+2025-02-24 11:42:24,278 - logger - INFO - this item  The Plants vs Zombies Movie is deleted from the database.
+2025-02-24 11:42:24,568 - logger - WARNING - [Task 11] Movie 67b7391fcbb2ac9e5382f2c4 has no IMDb ID. Skipping.
+2025-02-24 11:42:24,707 - logger - WARNING - [Task 12] Movie 67b7391fcbb2ac9e5382f2cc has no IMDb ID. Skipping.
+2025-02-24 11:42:24,850 - logger - WARNING - [Task 13] Movie 67b7392ccbb2ac9e5382f2d5 has no IMDb ID. Skipping.
+2025-02-24 11:42:25,013 - logger - WARNING - [Task 14] Movie 67b7392ccbb2ac9e5382f2e8 has no IMDb ID. Skipping.
+2025-02-24 11:42:25,153 - logger - WARNING - [Task 15] Movie 67b7392ccbb2ac9e5382f2fc has no IMDb ID. Skipping.
+2025-02-24 11:42:25,299 - logger - WARNING - [Task 16] Movie 67b7392ccbb2ac9e5382f2fe has no IMDb ID. Skipping.
+2025-02-24 11:42:25,445 - logger - WARNING - [Task 17] Movie 67b7392ccbb2ac9e5382f302 has no IMDb ID. Skipping.
+2025-02-24 11:42:25,586 - logger - WARNING - [Task 18] Movie 67b7392ccbb2ac9e5382f30a has no IMDb ID. Skipping.
+2025-02-24 11:42:25,729 - logger - WARNING - [Task 19] Movie 67b7392ccbb2ac9e5382f321 has no IMDb ID. Skipping.
+2025-02-24 11:42:25,867 - logger - WARNING - [Task 20] Movie 67b7392ccbb2ac9e5382f32e has no IMDb ID. Skipping.
+2025-02-24 11:42:26,013 - logger - WARNING - [Task 21] Movie 67b7393dcbb2ac9e5382f340 has no IMDb ID. Skipping.
+2025-02-24 11:42:26,326 - logger - WARNING - [Task 23] Movie 67b7393dcbb2ac9e5382f35b has no IMDb ID. Skipping.
+2025-02-24 11:42:26,495 - logger - WARNING - [Task 24] Movie 67b7393dcbb2ac9e5382f361 has no IMDb ID. Skipping.
+2025-02-24 11:42:26,634 - logger - WARNING - [Task 25] Movie 67b7393dcbb2ac9e5382f362 has no IMDb ID. Skipping.
+2025-02-24 11:42:26,783 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:26,785 - logger - INFO - this is not a film or not yet released Pets on a Train
+2025-02-24 11:42:26,785 - logger - INFO - this item  Pets on a Train is deleted from the database.
+2025-02-24 11:42:26,944 - logger - WARNING - [Task 27] Movie 67b7393dcbb2ac9e5382f36f has no IMDb ID. Skipping.
+2025-02-24 11:42:27,085 - logger - WARNING - [Task 28] Movie 67b7393dcbb2ac9e5382f370 has no IMDb ID. Skipping.
+2025-02-24 11:42:27,227 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:27,228 - logger - INFO - this is not a film or not yet released Asterix & Obelix: The Big Fight
+2025-02-24 11:42:27,231 - logger - INFO - this item  Asterix & Obelix: The Big Fight is deleted from the database.
+2025-02-24 11:42:27,400 - logger - WARNING - [Task 30] Movie 67b7393dcbb2ac9e5382f37b has no IMDb ID. Skipping.
+2025-02-24 11:42:27,540 - logger - WARNING - [Task 31] Movie 67b7393dcbb2ac9e5382f37e has no IMDb ID. Skipping.
+2025-02-24 11:42:27,679 - logger - WARNING - [Task 32] Movie 67b7393dcbb2ac9e5382f383 has no IMDb ID. Skipping.
+2025-02-24 11:42:27,840 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:27,841 - logger - INFO - this is not a film or not yet released Ro
+2025-02-24 11:42:27,842 - logger - INFO - this item  Ro is deleted from the database.
+2025-02-24 11:42:27,988 - logger - WARNING - [Task 34] Movie 67b7393ecbb2ac9e5382f391 has no IMDb ID. Skipping.
+2025-02-24 11:42:28,136 - logger - WARNING - [Task 35] Movie 67b73951cbb2ac9e5382f39c has no IMDb ID. Skipping.
+2025-02-24 11:42:28,279 - logger - WARNING - [Task 36] Movie 67b73951cbb2ac9e5382f39f has no IMDb ID. Skipping.
+2025-02-24 11:42:28,425 - logger - WARNING - [Task 37] Movie 67b73951cbb2ac9e5382f3a3 has no IMDb ID. Skipping.
+2025-02-24 11:42:28,575 - logger - WARNING - [Task 38] Movie 67b73951cbb2ac9e5382f3a4 has no IMDb ID. Skipping.
+2025-02-24 11:42:28,717 - logger - WARNING - [Task 39] Movie 67b73951cbb2ac9e5382f3a7 has no IMDb ID. Skipping.
+2025-02-24 11:42:28,856 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:28,858 - logger - INFO - this is not a film or not yet released 'Still Life' at the Penguin Café
+2025-02-24 11:42:28,859 - logger - INFO - this item  'Still Life' at the Penguin Café is deleted from the database.
+2025-02-24 11:42:29,000 - logger - WARNING - [Task 41] Movie 67b73952cbb2ac9e5382f3ae has no IMDb ID. Skipping.
+2025-02-24 11:42:29,157 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:29,158 - logger - INFO - this is not a film or not yet released Kaja the Great
+2025-02-24 11:42:29,159 - logger - INFO - this item  Kaja the Great is deleted from the database.
+2025-02-24 11:42:29,297 - logger - WARNING - [Task 43] Movie 67b73952cbb2ac9e5382f3c1 has no IMDb ID. Skipping.
+2025-02-24 11:42:29,436 - logger - WARNING - [Task 44] Movie 67b73952cbb2ac9e5382f3c5 has no IMDb ID. Skipping.
+2025-02-24 11:42:29,576 - logger - WARNING - [Task 45] Movie 67b73952cbb2ac9e5382f3ca has no IMDb ID. Skipping.
+2025-02-24 11:42:29,729 - logger - WARNING - [Task 46] Movie 67b73952cbb2ac9e5382f3cf has no IMDb ID. Skipping.
+2025-02-24 11:42:29,875 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:29,877 - logger - INFO - this is not a film or not yet released Catch! Teenieping the Movie 3
+2025-02-24 11:42:29,879 - logger - INFO - this item  Catch! Teenieping the Movie 3 is deleted from the database.
+2025-02-24 11:42:30,046 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:30,047 - logger - INFO - this is not a film or not yet released Catch! Teenieping the Movie 2
+2025-02-24 11:42:30,048 - logger - INFO - this item  Catch! Teenieping the Movie 2 is deleted from the database.
+2025-02-24 11:42:30,214 - logger - WARNING - [Task 49] Movie 67b73952cbb2ac9e5382f3d3 has no IMDb ID. Skipping.
+2025-02-24 11:42:30,351 - logger - WARNING - [Task 50] Movie 67b73952cbb2ac9e5382f3dc has no IMDb ID. Skipping.
+2025-02-24 11:42:30,512 - logger - WARNING - [Task 51] Movie 67b73952cbb2ac9e5382f3e9 has no IMDb ID. Skipping.
+2025-02-24 11:42:30,655 - logger - WARNING - [Task 52] Movie 67b73952cbb2ac9e5382f3ec has no IMDb ID. Skipping.
+2025-02-24 11:42:30,797 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:30,798 - logger - INFO - this is not a film or not yet released Die Olchis - Dino Alarm!
+2025-02-24 11:42:30,799 - logger - INFO - this item  Die Olchis - Dino Alarm! is deleted from the database.
+2025-02-24 11:42:30,945 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:30,946 - logger - INFO - this is not a film or not yet released The Adventure Time Movie
+2025-02-24 11:42:30,948 - logger - INFO - this item  The Adventure Time Movie is deleted from the database.
+2025-02-24 11:42:31,097 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:31,098 - logger - INFO - this is not a film or not yet released Underdogs 2
+2025-02-24 11:42:31,099 - logger - INFO - this item  Underdogs 2 is deleted from the database.
+2025-02-24 11:42:31,247 - logger - WARNING - [Task 56] Movie 67b73963cbb2ac9e5382f403 has no IMDb ID. Skipping.
+2025-02-24 11:42:31,390 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:31,391 - logger - INFO - this is not a film or not yet released Ark at 8
+2025-02-24 11:42:31,393 - logger - INFO - this item  Ark at 8 is deleted from the database.
+2025-02-24 11:42:31,540 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:31,541 - logger - INFO - this is not a film or not yet released Onno und Ontje
+2025-02-24 11:42:31,541 - logger - INFO - this item  Onno und Ontje is deleted from the database.
+2025-02-24 11:42:31,681 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:31,683 - logger - INFO - this is not a film or not yet released The Amazing Maurice 2 - The Waters of Life
+2025-02-24 11:42:31,685 - logger - INFO - this item  The Amazing Maurice 2 - The Waters of Life is deleted from the database.
+2025-02-24 11:42:31,850 - logger - WARNING - [Task 60] Movie 67b73963cbb2ac9e5382f408 has no IMDb ID. Skipping.
+2025-02-24 11:42:32,005 - logger - WARNING - [Task 61] Movie 67b73963cbb2ac9e5382f409 has no IMDb ID. Skipping.
+2025-02-24 11:42:32,147 - logger - WARNING - [Task 62] Movie 67b73963cbb2ac9e5382f40b has no IMDb ID. Skipping.
+2025-02-24 11:42:32,293 - logger - WARNING - [Task 63] Movie 67b73963cbb2ac9e5382f40d has no IMDb ID. Skipping.
+2025-02-24 11:42:32,435 - logger - WARNING - [Task 64] Movie 67b73963cbb2ac9e5382f40e has no IMDb ID. Skipping.
+2025-02-24 11:42:32,575 - logger - WARNING - [Task 65] Movie 67b73963cbb2ac9e5382f40f has no IMDb ID. Skipping.
+2025-02-24 11:42:32,714 - logger - WARNING - [Task 66] Movie 67b73963cbb2ac9e5382f410 has no IMDb ID. Skipping.
+2025-02-24 11:42:32,860 - logger - WARNING - [Task 67] Movie 67b73963cbb2ac9e5382f411 has no IMDb ID. Skipping.
+2025-02-24 11:42:33,002 - logger - WARNING - [Task 68] Movie 67b73964cbb2ac9e5382f412 has no IMDb ID. Skipping.
+2025-02-24 11:42:33,138 - logger - WARNING - [Task 69] Movie 67b73964cbb2ac9e5382f416 has no IMDb ID. Skipping.
+2025-02-24 11:42:33,287 - logger - WARNING - [Task 70] Movie 67b73964cbb2ac9e5382f418 has no IMDb ID. Skipping.
+2025-02-24 11:42:33,463 - logger - WARNING - [Task 71] Movie 67b73964cbb2ac9e5382f419 has no IMDb ID. Skipping.
+2025-02-24 11:42:33,616 - logger - WARNING - [Task 72] Movie 67b73964cbb2ac9e5382f41b has no IMDb ID. Skipping.
+2025-02-24 11:42:33,757 - logger - WARNING - [Task 73] Movie 67b73964cbb2ac9e5382f41c has no IMDb ID. Skipping.
+2025-02-24 11:42:33,900 - logger - WARNING - [Task 74] Movie 67b73964cbb2ac9e5382f41e has no IMDb ID. Skipping.
+2025-02-24 11:42:34,073 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:34,074 - logger - INFO - this is not a film or not yet released The Defects
+2025-02-24 11:42:34,076 - logger - INFO - this item  The Defects is deleted from the database.
+2025-02-24 11:42:34,222 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:34,222 - logger - INFO - this is not a film or not yet released The Legend of Magnus the Good
+2025-02-24 11:42:34,224 - logger - INFO - this item  The Legend of Magnus the Good is deleted from the database.
+2025-02-24 11:42:34,360 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:34,361 - logger - INFO - this is not a film or not yet released Grandma and Her Ghosts 2 – Baby Power
+2025-02-24 11:42:34,361 - logger - INFO - this item  Grandma and Her Ghosts 2 – Baby Power is deleted from the database.
+2025-02-24 11:42:34,508 - logger - WARNING - [Task 78] Movie 67b73964cbb2ac9e5382f429 has no IMDb ID. Skipping.
+2025-02-24 11:42:34,743 - logger - WARNING - [Task 79] Movie 67b73964cbb2ac9e5382f42c has no IMDb ID. Skipping.
+2025-02-24 11:42:34,886 - logger - WARNING - [Task 80] Movie 67b73964cbb2ac9e5382f42d has no IMDb ID. Skipping.
+2025-02-24 11:42:35,028 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:35,029 - logger - INFO - this is not a film or not yet released The Dreamed Journey of Alpha Two
+2025-02-24 11:42:35,030 - logger - INFO - this item  The Dreamed Journey of Alpha Two is deleted from the database.
+2025-02-24 11:42:35,179 - logger - WARNING - [Task 82] Movie 67b73964cbb2ac9e5382f43a has no IMDb ID. Skipping.
+2025-02-24 11:42:35,323 - logger - WARNING - [Task 83] Movie 67b73964cbb2ac9e5382f449 has no IMDb ID. Skipping.
+2025-02-24 11:42:35,472 - logger - WARNING - [Task 84] Movie 67b73964cbb2ac9e5382f451 has no IMDb ID. Skipping.
+2025-02-24 11:42:35,618 - logger - WARNING - [Task 85] Movie 67b73964cbb2ac9e5382f452 has no IMDb ID. Skipping.
+2025-02-24 11:42:35,759 - logger - WARNING - [Task 86] Movie 67b73964cbb2ac9e5382f454 has no IMDb ID. Skipping.
+2025-02-24 11:42:35,901 - logger - WARNING - [Task 87] Movie 67b73964cbb2ac9e5382f45c has no IMDb ID. Skipping.
+2025-02-24 11:42:36,044 - logger - WARNING - [Task 88] Movie 67b73964cbb2ac9e5382f45f has no IMDb ID. Skipping.
+2025-02-24 11:42:36,190 - logger - WARNING - [Task 89] Movie 67b73964cbb2ac9e5382f460 has no IMDb ID. Skipping.
+2025-02-24 11:42:36,326 - logger - WARNING - [Task 90] Movie 67b73979cbb2ac9e5382f464 has no IMDb ID. Skipping.
+2025-02-24 11:42:36,484 - logger - WARNING - [Task 91] Movie 67b73979cbb2ac9e5382f465 has no IMDb ID. Skipping.
+2025-02-24 11:42:36,632 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:36,633 - logger - INFO - this is not a film or not yet released Ex-tinct
+2025-02-24 11:42:36,633 - logger - INFO - this item  Ex-tinct is deleted from the database.
+2025-02-24 11:42:36,794 - logger - WARNING - [Task 93] Movie 67b73979cbb2ac9e5382f46b has no IMDb ID. Skipping.
+2025-02-24 11:42:36,939 - logger - WARNING - [Task 94] Movie 67b73979cbb2ac9e5382f46c has no IMDb ID. Skipping.
+2025-02-24 11:42:37,099 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:37,099 - logger - INFO - this is not a film or not yet released Sisters of the Mist
+2025-02-24 11:42:37,100 - logger - INFO - this item  Sisters of the Mist is deleted from the database.
+2025-02-24 11:42:37,246 - logger - WARNING - [Task 96] Movie 67b73979cbb2ac9e5382f479 has no IMDb ID. Skipping.
+2025-02-24 11:42:37,387 - logger - WARNING - [Task 97] Movie 67b73979cbb2ac9e5382f47a has no IMDb ID. Skipping.
+2025-02-24 11:42:37,541 - logger - WARNING - [Task 98] Movie 67b73979cbb2ac9e5382f47c has no IMDb ID. Skipping.
+2025-02-24 11:42:37,681 - logger - WARNING - [Task 99] Movie 67b73979cbb2ac9e5382f480 has no IMDb ID. Skipping.
+2025-02-24 11:42:37,820 - logger - WARNING - [Task 100] Movie 67b73979cbb2ac9e5382f485 has no IMDb ID. Skipping.
+2025-02-24 11:42:37,962 - logger - WARNING - [Task 101] Movie 67b73979cbb2ac9e5382f487 has no IMDb ID. Skipping.
+2025-02-24 11:42:38,238 - logger - WARNING - [Task 103] Movie 67b73979cbb2ac9e5382f48c has no IMDb ID. Skipping.
+2025-02-24 11:42:38,377 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:38,378 - logger - INFO - this is not a film or not yet released Beausoleil
+2025-02-24 11:42:38,378 - logger - INFO - this item  Beausoleil is deleted from the database.
+2025-02-24 11:42:38,542 - logger - WARNING - [Task 105] Movie 67b73979cbb2ac9e5382f490 has no IMDb ID. Skipping.
+2025-02-24 11:42:38,686 - logger - WARNING - [Task 106] Movie 67b73979cbb2ac9e5382f494 has no IMDb ID. Skipping.
+2025-02-24 11:42:38,824 - logger - WARNING - [Task 107] Movie 67b73979cbb2ac9e5382f496 has no IMDb ID. Skipping.
+2025-02-24 11:42:38,968 - logger - WARNING - [Task 108] Movie 67b73979cbb2ac9e5382f499 has no IMDb ID. Skipping.
+2025-02-24 11:42:39,106 - logger - WARNING - [Task 109] Movie 67b73979cbb2ac9e5382f49a has no IMDb ID. Skipping.
+2025-02-24 11:42:39,247 - logger - WARNING - [Task 110] Movie 67b73979cbb2ac9e5382f49c has no IMDb ID. Skipping.
+2025-02-24 11:42:39,386 - logger - WARNING - [Task 111] Movie 67b73979cbb2ac9e5382f4a4 has no IMDb ID. Skipping.
+2025-02-24 11:42:39,534 - logger - WARNING - [Task 112] Movie 67b73979cbb2ac9e5382f4a5 has no IMDb ID. Skipping.
+2025-02-24 11:42:39,962 - logger - WARNING - [Task 115] Movie 67b73979cbb2ac9e5382f4aa has no IMDb ID. Skipping.
+2025-02-24 11:42:40,117 - logger - WARNING - [Task 116] Movie 67b73979cbb2ac9e5382f4ae has no IMDb ID. Skipping.
+2025-02-24 11:42:40,255 - logger - WARNING - [Task 117] Movie 67b73979cbb2ac9e5382f4b1 has no IMDb ID. Skipping.
+2025-02-24 11:42:40,403 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:40,404 - logger - INFO - this is not a film or not yet released MouMoush – The King of Plastic
+2025-02-24 11:42:40,406 - logger - INFO - this item  MouMoush – The King of Plastic is deleted from the database.
+2025-02-24 11:42:40,562 - logger - WARNING - [Task 119] Movie 67b7397bcbb2ac9e5382f4b7 has no IMDb ID. Skipping.
+2025-02-24 11:42:40,710 - logger - WARNING - [Task 120] Movie 67b7397bcbb2ac9e5382f4bb has no IMDb ID. Skipping.
+2025-02-24 11:42:40,872 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:40,874 - logger - INFO - this is not a film or not yet released Tudy — Rescue at Sea
+2025-02-24 11:42:40,876 - logger - INFO - this item  Tudy — Rescue at Sea is deleted from the database.
+2025-02-24 11:42:41,017 - logger - WARNING - [Task 122] Movie 67b7397bcbb2ac9e5382f4c4 has no IMDb ID. Skipping.
+2025-02-24 11:42:41,161 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:41,162 - logger - INFO - this is not a film or not yet released Outfoxed!
+2025-02-24 11:42:41,162 - logger - INFO - this item  Outfoxed! is deleted from the database.
+2025-02-24 11:42:41,307 - logger - WARNING - [Task 124] Movie 67b7398fcbb2ac9e5382f4d0 has no IMDb ID. Skipping.
+2025-02-24 11:42:41,462 - logger - WARNING - [Task 125] Movie 67b7398fcbb2ac9e5382f4d1 has no IMDb ID. Skipping.
+2025-02-24 11:42:41,607 - logger - WARNING - [Task 126] Movie 67b7398fcbb2ac9e5382f4d2 has no IMDb ID. Skipping.
+2025-02-24 11:42:41,755 - logger - WARNING - [Task 127] Movie 67b7398fcbb2ac9e5382f4d4 has no IMDb ID. Skipping.
+2025-02-24 11:42:41,908 - logger - WARNING - [Task 128] Movie 67b7398fcbb2ac9e5382f4d5 has no IMDb ID. Skipping.
+2025-02-24 11:42:42,047 - logger - WARNING - [Task 129] Movie 67b7398fcbb2ac9e5382f4d6 has no IMDb ID. Skipping.
+2025-02-24 11:42:42,186 - logger - WARNING - [Task 130] Movie 67b7398fcbb2ac9e5382f4da has no IMDb ID. Skipping.
+2025-02-24 11:42:42,337 - logger - WARNING - [Task 131] Movie 67b7398fcbb2ac9e5382f4dc has no IMDb ID. Skipping.
+2025-02-24 11:42:42,485 - logger - WARNING - [Task 132] Movie 67b7398fcbb2ac9e5382f4e3 has no IMDb ID. Skipping.
+2025-02-24 11:42:42,628 - logger - WARNING - [Task 133] Movie 67b7398fcbb2ac9e5382f4e7 has no IMDb ID. Skipping.
+2025-02-24 11:42:42,796 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:42,798 - logger - INFO - this is not a film or not yet released Mikisoq
+2025-02-24 11:42:42,799 - logger - INFO - this item  Mikisoq is deleted from the database.
+2025-02-24 11:42:42,950 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:42,951 - logger - INFO - this is not a film or not yet released The Formula for Water
+2025-02-24 11:42:42,951 - logger - INFO - this item  The Formula for Water is deleted from the database.
+2025-02-24 11:42:43,093 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:43,094 - logger - INFO - this is not a film or not yet released Granny Samurai, the Monkey King and I
+2025-02-24 11:42:43,094 - logger - INFO - this item  Granny Samurai, the Monkey King and I is deleted from the database.
+2025-02-24 11:42:43,283 - logger - WARNING - [Task 137] Movie 67b7398fcbb2ac9e5382f4ee has no IMDb ID. Skipping.
+2025-02-24 11:42:43,435 - logger - WARNING - [Task 138] Movie 67b7398fcbb2ac9e5382f4ef has no IMDb ID. Skipping.
+2025-02-24 11:42:43,576 - logger - WARNING - [Task 139] Movie 67b7398fcbb2ac9e5382f4f0 has no IMDb ID. Skipping.
+2025-02-24 11:42:43,762 - logger - WARNING - [Task 140] Movie 67b7398fcbb2ac9e5382f4f1 has no IMDb ID. Skipping.
+2025-02-24 11:42:43,925 - logger - WARNING - [Task 141] Movie 67b7398fcbb2ac9e5382f4f2 has no IMDb ID. Skipping.
+2025-02-24 11:42:44,071 - logger - WARNING - [Task 142] Movie 67b7398fcbb2ac9e5382f4f3 has no IMDb ID. Skipping.
+2025-02-24 11:42:44,237 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:44,238 - logger - INFO - this is not a film or not yet released The Treasure of the Wyrm
+2025-02-24 11:42:44,238 - logger - INFO - this item  The Treasure of the Wyrm is deleted from the database.
+2025-02-24 11:42:44,383 - logger - WARNING - [Task 144] Movie 67b7398fcbb2ac9e5382f4f6 has no IMDb ID. Skipping.
+2025-02-24 11:42:44,538 - logger - WARNING - [Task 145] Movie 67b7398fcbb2ac9e5382f4f7 has no IMDb ID. Skipping.
+2025-02-24 11:42:44,690 - logger - WARNING - [Task 146] Movie 67b7398fcbb2ac9e5382f4f8 has no IMDb ID. Skipping.
+2025-02-24 11:42:44,849 - logger - WARNING - [Task 147] Movie 67b7398fcbb2ac9e5382f4f9 has no IMDb ID. Skipping.
+2025-02-24 11:42:45,032 - logger - WARNING - [Task 148] Movie 67b7398fcbb2ac9e5382f4fb has no IMDb ID. Skipping.
+2025-02-24 11:42:45,174 - logger - WARNING - [Task 149] Movie 67b7398fcbb2ac9e5382f500 has no IMDb ID. Skipping.
+2025-02-24 11:42:45,344 - logger - WARNING - [Task 150] Movie 67b7398fcbb2ac9e5382f502 has no IMDb ID. Skipping.
+2025-02-24 11:42:45,493 - logger - WARNING - [Task 151] Movie 67b7398fcbb2ac9e5382f506 has no IMDb ID. Skipping.
+2025-02-24 11:42:45,635 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:45,635 - logger - INFO - this is not a film or not yet released The Ballad of Yaya
+2025-02-24 11:42:45,636 - logger - INFO - this item  The Ballad of Yaya is deleted from the database.
+2025-02-24 11:42:45,786 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:45,788 - logger - INFO - this is not a film or not yet released Felix the Brave
+2025-02-24 11:42:45,788 - logger - INFO - this item  Felix the Brave is deleted from the database.
+2025-02-24 11:42:45,956 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:45,958 - logger - INFO - this is not a film or not yet released Yap Yap — The Secret Forest
+2025-02-24 11:42:45,960 - logger - INFO - this item  Yap Yap — The Secret Forest is deleted from the database.
+2025-02-24 11:42:46,098 - logger - WARNING - [Task 155] Movie 67b7398fcbb2ac9e5382f512 has no IMDb ID. Skipping.
+2025-02-24 11:42:46,261 - logger - WARNING - [Task 156] Movie 67b7398fcbb2ac9e5382f513 has no IMDb ID. Skipping.
+2025-02-24 11:42:46,409 - logger - WARNING - [Task 157] Movie 67b73990cbb2ac9e5382f518 has no IMDb ID. Skipping.
+2025-02-24 11:42:46,553 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:46,554 - logger - INFO - this is not a film or not yet released The Boy at the Edge of The World
+2025-02-24 11:42:46,554 - logger - INFO - this item  The Boy at the Edge of The World is deleted from the database.
+2025-02-24 11:42:46,699 - logger - WARNING - [Task 159] Movie 67b73990cbb2ac9e5382f51c has no IMDb ID. Skipping.
+2025-02-24 11:42:47,001 - logger - WARNING - [Task 161] Movie 67b73990cbb2ac9e5382f522 has no IMDb ID. Skipping.
+2025-02-24 11:42:47,150 - logger - WARNING - [Task 162] Movie 67b73990cbb2ac9e5382f527 has no IMDb ID. Skipping.
+2025-02-24 11:42:47,459 - logger - WARNING - [Task 164] Movie 67b7399bcbb2ac9e5382f52b has no IMDb ID. Skipping.
+2025-02-24 11:42:47,622 - logger - WARNING - [Task 165] Movie 67b7399bcbb2ac9e5382f52c has no IMDb ID. Skipping.
+2025-02-24 11:42:47,787 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:47,788 - logger - INFO - this is not a film or not yet released Trash Monsters
+2025-02-24 11:42:47,788 - logger - INFO - this item  Trash Monsters is deleted from the database.
+2025-02-24 11:42:47,934 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:47,934 - logger - INFO - this is not a film or not yet released Le Gardien du feu
+2025-02-24 11:42:47,936 - logger - INFO - this item  Le Gardien du feu is deleted from the database.
+2025-02-24 11:42:48,105 - logger - WARNING - [Task 168] Movie 67b7399bcbb2ac9e5382f52f has no IMDb ID. Skipping.
+2025-02-24 11:42:48,268 - logger - WARNING - [Task 169] Movie 67b7399bcbb2ac9e5382f530 has no IMDb ID. Skipping.
+2025-02-24 11:42:48,425 - logger - WARNING - [Task 170] Movie 67b7399bcbb2ac9e5382f531 has no IMDb ID. Skipping.
+2025-02-24 11:42:48,581 - logger - WARNING - [Task 171] Movie 67b7399bcbb2ac9e5382f532 has no IMDb ID. Skipping.
+2025-02-24 11:42:48,761 - logger - WARNING - [Task 172] Movie 67b7399bcbb2ac9e5382f533 has no IMDb ID. Skipping.
+2025-02-24 11:42:48,910 - logger - WARNING - [Task 173] Movie 67b7399bcbb2ac9e5382f534 has no IMDb ID. Skipping.
+2025-02-24 11:42:49,069 - logger - WARNING - [Task 174] Movie 67b7399bcbb2ac9e5382f535 has no IMDb ID. Skipping.
+2025-02-24 11:42:49,221 - logger - WARNING - [Task 175] Movie 67b7399bcbb2ac9e5382f536 has no IMDb ID. Skipping.
+2025-02-24 11:42:49,377 - logger - WARNING - [Task 176] Movie 67b7399bcbb2ac9e5382f537 has no IMDb ID. Skipping.
+2025-02-24 11:42:49,534 - logger - WARNING - [Task 177] Movie 67b7399bcbb2ac9e5382f538 has no IMDb ID. Skipping.
+2025-02-24 11:42:49,678 - logger - WARNING - [Task 178] Movie 67b7399bcbb2ac9e5382f539 has no IMDb ID. Skipping.
+2025-02-24 11:42:49,835 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:49,836 - logger - INFO - this is not a film or not yet released The Babirusa
+2025-02-24 11:42:49,837 - logger - INFO - this item  The Babirusa is deleted from the database.
+2025-02-24 11:42:49,977 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:49,977 - logger - INFO - this is not a film or not yet released Brume
+2025-02-24 11:42:49,977 - logger - INFO - this item  Brume is deleted from the database.
+2025-02-24 11:42:50,119 - logger - WARNING - [Task 181] Movie 67b739a2cbb2ac9e5382f53e has no IMDb ID. Skipping.
+2025-02-24 11:42:50,265 - logger - WARNING - [Task 182] Movie 67b739a2cbb2ac9e5382f53f has no IMDb ID. Skipping.
+2025-02-24 11:42:50,439 - logger - WARNING - [Task 183] Movie 67b739a2cbb2ac9e5382f540 has no IMDb ID. Skipping.
+2025-02-24 11:42:50,578 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:50,579 - logger - INFO - this is not a film or not yet released Moon Hunter
+2025-02-24 11:42:50,579 - logger - INFO - this item  Moon Hunter is deleted from the database.
+2025-02-24 11:42:50,736 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:50,738 - logger - INFO - this is not a film or not yet released Tumble Leaf the Movie
+2025-02-24 11:42:50,739 - logger - INFO - this item  Tumble Leaf the Movie is deleted from the database.
+2025-02-24 11:42:50,891 - logger - WARNING - [Task 186] Movie 67b739a2cbb2ac9e5382f544 has no IMDb ID. Skipping.
+2025-02-24 11:42:51,045 - logger - WARNING - [Task 187] Movie 67b739a2cbb2ac9e5382f545 has no IMDb ID. Skipping.
+2025-02-24 11:42:51,196 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:51,196 - logger - INFO - this is not a film or not yet released Caramel's Words
+2025-02-24 11:42:51,196 - logger - INFO - this item  Caramel's Words is deleted from the database.
+2025-02-24 11:42:51,351 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:51,351 - logger - INFO - this is not a film or not yet released White Heron
+2025-02-24 11:42:51,352 - logger - INFO - this item  White Heron is deleted from the database.
+2025-02-24 11:42:51,496 - logger - WARNING - [Task 190] Movie 67b739a2cbb2ac9e5382f54b has no IMDb ID. Skipping.
+2025-02-24 11:42:51,652 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:51,653 - logger - INFO - this is not a film or not yet released The Great North Adventure
+2025-02-24 11:42:51,654 - logger - INFO - this item  The Great North Adventure is deleted from the database.
+2025-02-24 11:42:51,793 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:51,794 - logger - INFO - this is not a film or not yet released Lou and the Glacier's Secret
+2025-02-24 11:42:51,794 - logger - INFO - this item  Lou and the Glacier's Secret is deleted from the database.
+2025-02-24 11:42:51,935 - logger - WARNING - [Task 193] Movie 67b739a2cbb2ac9e5382f552 has no IMDb ID. Skipping.
+2025-02-24 11:42:52,075 - logger - WARNING - [Task 194] Movie 67b739a2cbb2ac9e5382f553 has no IMDb ID. Skipping.
+2025-02-24 11:42:52,376 - logger - WARNING - [Task 196] Movie 67b739a2cbb2ac9e5382f555 has no IMDb ID. Skipping.
+2025-02-24 11:42:52,515 - logger - WARNING - [Task 197] Movie 67b739a2cbb2ac9e5382f556 has no IMDb ID. Skipping.
+2025-02-24 11:42:52,678 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:52,679 - logger - INFO - this is not a film or not yet released Len and the Song of the Whales
+2025-02-24 11:42:52,679 - logger - INFO - this item  Len and the Song of the Whales is deleted from the database.
+2025-02-24 11:42:52,823 - logger - WARNING - [Task 199] Movie 67b739a2cbb2ac9e5382f55b has no IMDb ID. Skipping.
+2025-02-24 11:42:52,995 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:52,995 - logger - INFO - this is not a film or not yet released The Anooki, Our Amazing Odyssey
+2025-02-24 11:42:52,996 - logger - INFO - this item  The Anooki, Our Amazing Odyssey is deleted from the database.
+2025-02-24 11:42:53,136 - logger - WARNING - [Task 201] Movie 67b739a2cbb2ac9e5382f55e has no IMDb ID. Skipping.
+2025-02-24 11:42:53,277 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:53,279 - logger - INFO - this is not a film or not yet released Spirit Seeker
+2025-02-24 11:42:53,279 - logger - INFO - this item  Spirit Seeker is deleted from the database.
+2025-02-24 11:42:53,459 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:53,459 - logger - INFO - this is not a film or not yet released Lulu & Nelson
+2025-02-24 11:42:53,459 - logger - INFO - this item  Lulu & Nelson is deleted from the database.
+2025-02-24 11:42:53,613 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:53,614 - logger - INFO - this is not a film or not yet released Adam and the Magic Cloud
+2025-02-24 11:42:53,614 - logger - INFO - this item  Adam and the Magic Cloud is deleted from the database.
+2025-02-24 11:42:53,752 - logger - WARNING - [Task 205] Movie 67b739a2cbb2ac9e5382f563 has no IMDb ID. Skipping.
+2025-02-24 11:42:53,913 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:53,913 - logger - INFO - this is not a film or not yet released Dom Fradique
+2025-02-24 11:42:53,915 - logger - INFO - this item  Dom Fradique is deleted from the database.
+2025-02-24 11:42:54,060 - logger - WARNING - [Task 207] Movie 67b739a3cbb2ac9e5382f56a has no IMDb ID. Skipping.
+2025-02-24 11:42:54,200 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:54,202 - logger - INFO - this is not a film or not yet released Tata Miguel
+2025-02-24 11:42:54,202 - logger - INFO - this item  Tata Miguel is deleted from the database.
+2025-02-24 11:42:54,345 - logger - WARNING - [Task 209] Movie 67b739a3cbb2ac9e5382f56d has no IMDb ID. Skipping.
+2025-02-24 11:42:54,501 - logger - WARNING - [Task 210] Movie 67b739a3cbb2ac9e5382f56e has no IMDb ID. Skipping.
+2025-02-24 11:42:54,654 - logger - WARNING - [Task 211] Movie 67b739a3cbb2ac9e5382f56f has no IMDb ID. Skipping.
+2025-02-24 11:42:54,794 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:54,796 - logger - INFO - this is not a film or not yet released The Precious Gift
+2025-02-24 11:42:54,798 - logger - INFO - this item  The Precious Gift is deleted from the database.
+2025-02-24 11:42:54,938 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:54,939 - logger - INFO - this is not a film or not yet released The Legend of Lune
+2025-02-24 11:42:54,941 - logger - INFO - this item  The Legend of Lune is deleted from the database.
+2025-02-24 11:42:55,086 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:55,087 - logger - INFO - this is not a film or not yet released Ninn
+2025-02-24 11:42:55,089 - logger - INFO - this item  Ninn is deleted from the database.
+2025-02-24 11:42:55,234 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:55,235 - logger - INFO - this is not a film or not yet released Long Time A Girl: An Endless City Adventure
+2025-02-24 11:42:55,236 - logger - INFO - this item  Long Time A Girl: An Endless City Adventure is deleted from the database.
+2025-02-24 11:42:55,378 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:55,379 - logger - INFO - this is not a film or not yet released Like!
+2025-02-24 11:42:55,381 - logger - INFO - this item  Like! is deleted from the database.
+2025-02-24 11:42:55,526 - logger - WARNING - [Task 217] Movie 67b739a3cbb2ac9e5382f575 has no IMDb ID. Skipping.
+2025-02-24 11:42:55,667 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:55,668 - logger - INFO - this is not a film or not yet released Lucie's Frightful Adventures
+2025-02-24 11:42:55,668 - logger - INFO - this item  Lucie's Frightful Adventures is deleted from the database.
+2025-02-24 11:42:55,809 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:55,810 - logger - INFO - this is not a film or not yet released Moses the Pirate
+2025-02-24 11:42:55,810 - logger - INFO - this item  Moses the Pirate is deleted from the database.
+2025-02-24 11:42:55,951 - logger - WARNING - [Task 220] Movie 67b739a3cbb2ac9e5382f57d has no IMDb ID. Skipping.
+2025-02-24 11:42:56,091 - logger - WARNING - [Task 221] Movie 67b739a3cbb2ac9e5382f57e has no IMDb ID. Skipping.
+2025-02-24 11:42:56,250 - logger - WARNING - [Task 222] Movie 67b739a3cbb2ac9e5382f580 has no IMDb ID. Skipping.
+2025-02-24 11:42:56,406 - logger - WARNING - [Task 223] Movie 67b739a3cbb2ac9e5382f581 has no IMDb ID. Skipping.
+2025-02-24 11:42:56,581 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:56,582 - logger - INFO - this is not a film or not yet released Raven Girl
+2025-02-24 11:42:56,584 - logger - INFO - this item  Raven Girl is deleted from the database.
+2025-02-24 11:42:56,729 - logger - WARNING - [Task 225] Movie 67b739a3cbb2ac9e5382f584 has no IMDb ID. Skipping.
+2025-02-24 11:42:56,875 - logger - WARNING - [Task 226] Movie 67b739a3cbb2ac9e5382f585 has no IMDb ID. Skipping.
+2025-02-24 11:42:57,033 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:57,034 - logger - INFO - this is not a film or not yet released Detective Kibbles
+2025-02-24 11:42:57,034 - logger - INFO - this item  Detective Kibbles is deleted from the database.
+2025-02-24 11:42:57,193 - logger - WARNING - [Task 228] Movie 67b739a3cbb2ac9e5382f58a has no IMDb ID. Skipping.
+2025-02-24 11:42:57,346 - logger - WARNING - [Task 229] Movie 67b739a3cbb2ac9e5382f58b has no IMDb ID. Skipping.
+2025-02-24 11:42:57,503 - logger - WARNING - [Task 230] Movie 67b739a3cbb2ac9e5382f58c has no IMDb ID. Skipping.
+2025-02-24 11:42:57,674 - logger - WARNING - [Task 231] Movie 67b739a3cbb2ac9e5382f58d has no IMDb ID. Skipping.
+2025-02-24 11:42:57,820 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:57,821 - logger - INFO - this is not a film or not yet released I Am Helena
+2025-02-24 11:42:57,822 - logger - INFO - this item  I Am Helena is deleted from the database.
+2025-02-24 11:42:57,966 - logger - ERROR - Problem occurs in get_more_informations 'NoneType' object has no attribute 'lower'
+2025-02-24 11:42:57,968 - logger - INFO - this is not a film or not yet released Little Caribou
+2025-02-24 11:42:57,969 - logger - INFO - this item  Little Caribou is deleted from the database.
+2025-02-24 11:42:58,137 - logger - WARNING - [Task 234] Movie 67b739b7cbb2ac9e5382f593 has no IMDb ID. Skipping.
+2025-02-24 11:42:58,315 - logger - WARNING - [Task 235] Movie 67b739b7cbb2ac9e5382f594 has no IMDb ID. Skipping.
+2025-02-24 11:42:58,471 - logger - WARNING - [Task 236] Movie 67b739b7cbb2ac9e5382f596 has no IMDb ID. Skipping.
+2025-02-24 11:42:58,635 - logger - WARNING - [Task 237] Movie 67b739b7cbb2ac9e5382f597 has no IMDb ID. Skipping.
+2025-02-24 11:42:58,817 - logger - WARNING - [Task 238] Movie 67b739b7cbb2ac9e5382f598 has no IMDb ID. Skipping.
+2025-02-24 11:42:58,833 - logger - INFO - Movie Title: Go! Anpanman: Sushi-roll Maki-chan and Gold Kamameshidon
+2025-02-24 11:42:58,837 - logger - INFO - Movie Title: Wakan
+2025-02-24 11:42:58,841 - logger - INFO - Movie Title: Return to Mushsnail: The Legend of the Snowmill
+2025-02-24 11:42:58,844 - logger - INFO - Movie Title: Dorothy and The Wizard of Oz: The Wizard, The Witch, and The Crystal Ball
+2025-02-24 11:42:58,845 - logger - INFO - Movie Title: The Adventures of Curious George
+2025-02-24 11:42:58,848 - logger - INFO - Movie Title: Jayce and the Wheeled Warriors: The Bloodstone
+2025-02-24 11:42:58,850 - logger - INFO - Movie Title: Thomas & seine Freunde - Rettungseinsatz Nebelinsel
+2025-02-24 11:42:58,850 - logger - INFO - Movie Title: Go! Anpanman: The Amazing Naganegiman and Yakisobapanman
+2025-02-24 11:42:59,891 - logger - ERROR - [Task 113] OMDb API error for IMDb ID tt30926831: {'Response': 'False', 'Error': 'Error getting data.'}
+2025-02-24 11:42:59,892 - logger - WARNING - [Task 113] Filtered OMDb data was empty. Keeping fallback title.
+2025-02-24 11:42:59,917 - logger - INFO - [Task 195] Updated movie with IMDb ID tt1420155.
+2025-02-24 11:42:59,919 - logger - INFO - [Task 114] Updated movie with IMDb ID tt29801606.
+2025-02-24 11:42:59,938 - logger - INFO - [Task 113] Updated movie with IMDb ID tt30926831.
+2025-02-24 11:42:59,972 - logger - INFO - [Task 102] Updated movie with IMDb ID tt0407503.
+2025-02-24 11:42:59,996 - logger - INFO - [Task 160] Updated movie with IMDb ID tt0312284.
+2025-02-24 11:43:00,022 - logger - INFO - [Task 22] Updated movie with IMDb ID tt8351264.
+2025-02-24 11:43:00,242 - logger - ERROR - Client error: 404, message='Not Found', url='https://en.wikipedia.org/api/rest_v1/page/summary/' on https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:00,264 - logger - ERROR - Client error: 404, message='Not Found', url='https://en.wikipedia.org/api/rest_v1/page/summary/' on https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:02,579 - logger - ERROR - Client error: 404, message='Not Found', url='https://en.wikipedia.org/api/rest_v1/page/summary/' on https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:02,600 - logger - ERROR - Client error: 404, message='Not Found', url='https://en.wikipedia.org/api/rest_v1/page/summary/' on https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:04,917 - logger - ERROR - Client error: 404, message='Not Found', url='https://en.wikipedia.org/api/rest_v1/page/summary/' on https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:05,060 - logger - ERROR - Client error: 404, message='Not Found', url='https://en.wikipedia.org/api/rest_v1/page/summary/' on https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:06,935 - logger - ERROR - All 3 attempts failed for https://en.wikipedia.org/api/rest_v1/page/summary/. Returning empty dictionary.
+2025-02-24 11:43:06,936 - logger - WARNING - No valid data received from https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:06,964 - logger - INFO - [Task 163] Updated movie with IMDb ID tt0086815.
+2025-02-24 11:43:07,059 - logger - ERROR - All 3 attempts failed for https://en.wikipedia.org/api/rest_v1/page/summary/. Returning empty dictionary.
+2025-02-24 11:43:07,060 - logger - WARNING - No valid data received from https://en.wikipedia.org/api/rest_v1/page/summary/
+2025-02-24 11:43:07,070 - logger - INFO - [Task 9] Updated movie with IMDb ID tt31038871.
+2025-02-24 11:43:08,086 - logger - INFO - All movies have been processed.
+2025-02-24 11:43:08,099 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression
+2025-02-24 11:46:08,640 - logger - INFO - Connected to MongoDB!
+2025-02-24 11:46:08,658 - logger - INFO - Found 170 movies to update.
+2025-02-24 11:46:09,402 - logger - WARNING - [Task 1] Movie 67b738d3cbb2ac9e5382f0f8 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,444 - logger - WARNING - [Task 2] Movie 67b738ddcbb2ac9e5382f15a has no IMDb ID. Skipping.
+2025-02-24 11:46:09,489 - logger - WARNING - [Task 3] Movie 67b738f1cbb2ac9e5382f1cb has no IMDb ID. Skipping.
+2025-02-24 11:46:09,534 - logger - WARNING - [Task 4] Movie 67b738f6cbb2ac9e5382f1e2 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,574 - logger - WARNING - [Task 5] Movie 67b73905cbb2ac9e5382f219 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,623 - logger - WARNING - [Task 6] Movie 67b7390ccbb2ac9e5382f265 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,665 - logger - WARNING - [Task 7] Movie 67b73918cbb2ac9e5382f283 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,708 - logger - WARNING - [Task 8] Movie 67b73918cbb2ac9e5382f293 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,751 - logger - WARNING - [Task 9] Movie 67b7391fcbb2ac9e5382f2c4 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,792 - logger - WARNING - [Task 10] Movie 67b7391fcbb2ac9e5382f2cc has no IMDb ID. Skipping.
+2025-02-24 11:46:09,836 - logger - WARNING - [Task 11] Movie 67b7392ccbb2ac9e5382f2d5 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,879 - logger - WARNING - [Task 12] Movie 67b7392ccbb2ac9e5382f2e8 has no IMDb ID. Skipping.
+2025-02-24 11:46:09,922 - logger - WARNING - [Task 13] Movie 67b7392ccbb2ac9e5382f2fc has no IMDb ID. Skipping.
+2025-02-24 11:46:09,988 - logger - WARNING - [Task 14] Movie 67b7392ccbb2ac9e5382f2fe has no IMDb ID. Skipping.
+2025-02-24 11:46:10,028 - logger - WARNING - [Task 15] Movie 67b7392ccbb2ac9e5382f302 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,088 - logger - WARNING - [Task 16] Movie 67b7392ccbb2ac9e5382f30a has no IMDb ID. Skipping.
+2025-02-24 11:46:10,131 - logger - WARNING - [Task 17] Movie 67b7392ccbb2ac9e5382f321 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,172 - logger - WARNING - [Task 18] Movie 67b7392ccbb2ac9e5382f32e has no IMDb ID. Skipping.
+2025-02-24 11:46:10,210 - logger - WARNING - [Task 19] Movie 67b7393dcbb2ac9e5382f340 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,254 - logger - WARNING - [Task 20] Movie 67b7393dcbb2ac9e5382f35b has no IMDb ID. Skipping.
+2025-02-24 11:46:10,293 - logger - WARNING - [Task 21] Movie 67b7393dcbb2ac9e5382f361 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,331 - logger - WARNING - [Task 22] Movie 67b7393dcbb2ac9e5382f362 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,374 - logger - WARNING - [Task 23] Movie 67b7393dcbb2ac9e5382f36f has no IMDb ID. Skipping.
+2025-02-24 11:46:10,423 - logger - WARNING - [Task 24] Movie 67b7393dcbb2ac9e5382f370 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,460 - logger - WARNING - [Task 25] Movie 67b7393dcbb2ac9e5382f37b has no IMDb ID. Skipping.
+2025-02-24 11:46:10,496 - logger - WARNING - [Task 26] Movie 67b7393dcbb2ac9e5382f37e has no IMDb ID. Skipping.
+2025-02-24 11:46:10,537 - logger - WARNING - [Task 27] Movie 67b7393dcbb2ac9e5382f383 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,575 - logger - WARNING - [Task 28] Movie 67b7393ecbb2ac9e5382f391 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,616 - logger - WARNING - [Task 29] Movie 67b73951cbb2ac9e5382f39c has no IMDb ID. Skipping.
+2025-02-24 11:46:10,655 - logger - WARNING - [Task 30] Movie 67b73951cbb2ac9e5382f39f has no IMDb ID. Skipping.
+2025-02-24 11:46:10,694 - logger - WARNING - [Task 31] Movie 67b73951cbb2ac9e5382f3a3 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,736 - logger - WARNING - [Task 32] Movie 67b73951cbb2ac9e5382f3a4 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,778 - logger - WARNING - [Task 33] Movie 67b73951cbb2ac9e5382f3a7 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,819 - logger - WARNING - [Task 34] Movie 67b73952cbb2ac9e5382f3ae has no IMDb ID. Skipping.
+2025-02-24 11:46:10,863 - logger - WARNING - [Task 35] Movie 67b73952cbb2ac9e5382f3c1 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,904 - logger - WARNING - [Task 36] Movie 67b73952cbb2ac9e5382f3c5 has no IMDb ID. Skipping.
+2025-02-24 11:46:10,945 - logger - WARNING - [Task 37] Movie 67b73952cbb2ac9e5382f3ca has no IMDb ID. Skipping.
+2025-02-24 11:46:11,092 - logger - WARNING - [Task 38] Movie 67b73952cbb2ac9e5382f3cf has no IMDb ID. Skipping.
+2025-02-24 11:46:11,135 - logger - WARNING - [Task 39] Movie 67b73952cbb2ac9e5382f3d3 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,178 - logger - WARNING - [Task 40] Movie 67b73952cbb2ac9e5382f3dc has no IMDb ID. Skipping.
+2025-02-24 11:46:11,221 - logger - WARNING - [Task 41] Movie 67b73952cbb2ac9e5382f3e9 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,264 - logger - WARNING - [Task 42] Movie 67b73952cbb2ac9e5382f3ec has no IMDb ID. Skipping.
+2025-02-24 11:46:11,304 - logger - WARNING - [Task 43] Movie 67b73963cbb2ac9e5382f403 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,359 - logger - WARNING - [Task 44] Movie 67b73963cbb2ac9e5382f408 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,413 - logger - WARNING - [Task 45] Movie 67b73963cbb2ac9e5382f409 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,454 - logger - WARNING - [Task 46] Movie 67b73963cbb2ac9e5382f40b has no IMDb ID. Skipping.
+2025-02-24 11:46:11,499 - logger - WARNING - [Task 47] Movie 67b73963cbb2ac9e5382f40d has no IMDb ID. Skipping.
+2025-02-24 11:46:11,544 - logger - WARNING - [Task 48] Movie 67b73963cbb2ac9e5382f40e has no IMDb ID. Skipping.
+2025-02-24 11:46:11,609 - logger - WARNING - [Task 49] Movie 67b73963cbb2ac9e5382f40f has no IMDb ID. Skipping.
+2025-02-24 11:46:11,654 - logger - WARNING - [Task 50] Movie 67b73963cbb2ac9e5382f410 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,693 - logger - WARNING - [Task 51] Movie 67b73963cbb2ac9e5382f411 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,760 - logger - WARNING - [Task 52] Movie 67b73964cbb2ac9e5382f412 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,804 - logger - WARNING - [Task 53] Movie 67b73964cbb2ac9e5382f416 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,849 - logger - WARNING - [Task 54] Movie 67b73964cbb2ac9e5382f418 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,914 - logger - WARNING - [Task 55] Movie 67b73964cbb2ac9e5382f419 has no IMDb ID. Skipping.
+2025-02-24 11:46:11,958 - logger - WARNING - [Task 56] Movie 67b73964cbb2ac9e5382f41b has no IMDb ID. Skipping.
+2025-02-24 11:46:12,000 - logger - WARNING - [Task 57] Movie 67b73964cbb2ac9e5382f41c has no IMDb ID. Skipping.
+2025-02-24 11:46:12,044 - logger - WARNING - [Task 58] Movie 67b73964cbb2ac9e5382f41e has no IMDb ID. Skipping.
+2025-02-24 11:46:12,103 - logger - WARNING - [Task 59] Movie 67b73964cbb2ac9e5382f429 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,146 - logger - WARNING - [Task 60] Movie 67b73964cbb2ac9e5382f42c has no IMDb ID. Skipping.
+2025-02-24 11:46:12,193 - logger - WARNING - [Task 61] Movie 67b73964cbb2ac9e5382f42d has no IMDb ID. Skipping.
+2025-02-24 11:46:12,234 - logger - WARNING - [Task 62] Movie 67b73964cbb2ac9e5382f43a has no IMDb ID. Skipping.
+2025-02-24 11:46:12,294 - logger - WARNING - [Task 63] Movie 67b73964cbb2ac9e5382f449 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,336 - logger - WARNING - [Task 64] Movie 67b73964cbb2ac9e5382f451 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,376 - logger - WARNING - [Task 65] Movie 67b73964cbb2ac9e5382f452 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,416 - logger - WARNING - [Task 66] Movie 67b73964cbb2ac9e5382f454 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,474 - logger - WARNING - [Task 67] Movie 67b73964cbb2ac9e5382f45c has no IMDb ID. Skipping.
+2025-02-24 11:46:12,518 - logger - WARNING - [Task 68] Movie 67b73964cbb2ac9e5382f45f has no IMDb ID. Skipping.
+2025-02-24 11:46:12,595 - logger - WARNING - [Task 69] Movie 67b73964cbb2ac9e5382f460 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,638 - logger - WARNING - [Task 70] Movie 67b73979cbb2ac9e5382f464 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,680 - logger - WARNING - [Task 71] Movie 67b73979cbb2ac9e5382f465 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,720 - logger - WARNING - [Task 72] Movie 67b73979cbb2ac9e5382f46b has no IMDb ID. Skipping.
+2025-02-24 11:46:12,787 - logger - WARNING - [Task 73] Movie 67b73979cbb2ac9e5382f46c has no IMDb ID. Skipping.
+2025-02-24 11:46:12,857 - logger - WARNING - [Task 74] Movie 67b73979cbb2ac9e5382f479 has no IMDb ID. Skipping.
+2025-02-24 11:46:12,903 - logger - WARNING - [Task 75] Movie 67b73979cbb2ac9e5382f47a has no IMDb ID. Skipping.
+2025-02-24 11:46:12,948 - logger - WARNING - [Task 76] Movie 67b73979cbb2ac9e5382f47c has no IMDb ID. Skipping.
+2025-02-24 11:46:12,992 - logger - WARNING - [Task 77] Movie 67b73979cbb2ac9e5382f480 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,166 - logger - WARNING - [Task 78] Movie 67b73979cbb2ac9e5382f485 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,210 - logger - WARNING - [Task 79] Movie 67b73979cbb2ac9e5382f487 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,256 - logger - WARNING - [Task 80] Movie 67b73979cbb2ac9e5382f48c has no IMDb ID. Skipping.
+2025-02-24 11:46:13,311 - logger - WARNING - [Task 81] Movie 67b73979cbb2ac9e5382f490 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,356 - logger - WARNING - [Task 82] Movie 67b73979cbb2ac9e5382f494 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,406 - logger - WARNING - [Task 83] Movie 67b73979cbb2ac9e5382f496 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,454 - logger - WARNING - [Task 84] Movie 67b73979cbb2ac9e5382f499 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,504 - logger - WARNING - [Task 85] Movie 67b73979cbb2ac9e5382f49a has no IMDb ID. Skipping.
+2025-02-24 11:46:13,573 - logger - WARNING - [Task 86] Movie 67b73979cbb2ac9e5382f49c has no IMDb ID. Skipping.
+2025-02-24 11:46:13,618 - logger - WARNING - [Task 87] Movie 67b73979cbb2ac9e5382f4a4 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,656 - logger - WARNING - [Task 88] Movie 67b73979cbb2ac9e5382f4a5 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,701 - logger - WARNING - [Task 89] Movie 67b73979cbb2ac9e5382f4aa has no IMDb ID. Skipping.
+2025-02-24 11:46:13,737 - logger - WARNING - [Task 90] Movie 67b73979cbb2ac9e5382f4ae has no IMDb ID. Skipping.
+2025-02-24 11:46:13,778 - logger - WARNING - [Task 91] Movie 67b73979cbb2ac9e5382f4b1 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,841 - logger - WARNING - [Task 92] Movie 67b7397bcbb2ac9e5382f4b7 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,882 - logger - WARNING - [Task 93] Movie 67b7397bcbb2ac9e5382f4bb has no IMDb ID. Skipping.
+2025-02-24 11:46:13,925 - logger - WARNING - [Task 94] Movie 67b7397bcbb2ac9e5382f4c4 has no IMDb ID. Skipping.
+2025-02-24 11:46:13,970 - logger - WARNING - [Task 95] Movie 67b7398fcbb2ac9e5382f4d0 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,013 - logger - WARNING - [Task 96] Movie 67b7398fcbb2ac9e5382f4d1 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,055 - logger - WARNING - [Task 97] Movie 67b7398fcbb2ac9e5382f4d2 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,098 - logger - WARNING - [Task 98] Movie 67b7398fcbb2ac9e5382f4d4 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,136 - logger - WARNING - [Task 99] Movie 67b7398fcbb2ac9e5382f4d5 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,180 - logger - WARNING - [Task 100] Movie 67b7398fcbb2ac9e5382f4d6 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,221 - logger - WARNING - [Task 101] Movie 67b7398fcbb2ac9e5382f4da has no IMDb ID. Skipping.
+2025-02-24 11:46:14,263 - logger - WARNING - [Task 102] Movie 67b7398fcbb2ac9e5382f4dc has no IMDb ID. Skipping.
+2025-02-24 11:46:14,301 - logger - WARNING - [Task 103] Movie 67b7398fcbb2ac9e5382f4e3 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,341 - logger - WARNING - [Task 104] Movie 67b7398fcbb2ac9e5382f4e7 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,384 - logger - WARNING - [Task 105] Movie 67b7398fcbb2ac9e5382f4ee has no IMDb ID. Skipping.
+2025-02-24 11:46:14,430 - logger - WARNING - [Task 106] Movie 67b7398fcbb2ac9e5382f4ef has no IMDb ID. Skipping.
+2025-02-24 11:46:14,477 - logger - WARNING - [Task 107] Movie 67b7398fcbb2ac9e5382f4f0 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,525 - logger - WARNING - [Task 108] Movie 67b7398fcbb2ac9e5382f4f1 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,569 - logger - WARNING - [Task 109] Movie 67b7398fcbb2ac9e5382f4f2 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,613 - logger - WARNING - [Task 110] Movie 67b7398fcbb2ac9e5382f4f3 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,653 - logger - WARNING - [Task 111] Movie 67b7398fcbb2ac9e5382f4f6 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,695 - logger - WARNING - [Task 112] Movie 67b7398fcbb2ac9e5382f4f7 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,752 - logger - WARNING - [Task 113] Movie 67b7398fcbb2ac9e5382f4f8 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,797 - logger - WARNING - [Task 114] Movie 67b7398fcbb2ac9e5382f4f9 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,838 - logger - WARNING - [Task 115] Movie 67b7398fcbb2ac9e5382f4fb has no IMDb ID. Skipping.
+2025-02-24 11:46:14,883 - logger - WARNING - [Task 116] Movie 67b7398fcbb2ac9e5382f500 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,922 - logger - WARNING - [Task 117] Movie 67b7398fcbb2ac9e5382f502 has no IMDb ID. Skipping.
+2025-02-24 11:46:14,969 - logger - WARNING - [Task 118] Movie 67b7398fcbb2ac9e5382f506 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,014 - logger - WARNING - [Task 119] Movie 67b7398fcbb2ac9e5382f512 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,056 - logger - WARNING - [Task 120] Movie 67b7398fcbb2ac9e5382f513 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,101 - logger - WARNING - [Task 121] Movie 67b73990cbb2ac9e5382f518 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,142 - logger - WARNING - [Task 122] Movie 67b73990cbb2ac9e5382f51c has no IMDb ID. Skipping.
+2025-02-24 11:46:15,184 - logger - WARNING - [Task 123] Movie 67b73990cbb2ac9e5382f522 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,250 - logger - WARNING - [Task 124] Movie 67b73990cbb2ac9e5382f527 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,295 - logger - WARNING - [Task 125] Movie 67b7399bcbb2ac9e5382f52b has no IMDb ID. Skipping.
+2025-02-24 11:46:15,340 - logger - WARNING - [Task 126] Movie 67b7399bcbb2ac9e5382f52c has no IMDb ID. Skipping.
+2025-02-24 11:46:15,378 - logger - WARNING - [Task 127] Movie 67b7399bcbb2ac9e5382f52f has no IMDb ID. Skipping.
+2025-02-24 11:46:15,421 - logger - WARNING - [Task 128] Movie 67b7399bcbb2ac9e5382f530 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,468 - logger - WARNING - [Task 129] Movie 67b7399bcbb2ac9e5382f531 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,512 - logger - WARNING - [Task 130] Movie 67b7399bcbb2ac9e5382f532 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,576 - logger - WARNING - [Task 131] Movie 67b7399bcbb2ac9e5382f533 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,618 - logger - WARNING - [Task 132] Movie 67b7399bcbb2ac9e5382f534 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,658 - logger - WARNING - [Task 133] Movie 67b7399bcbb2ac9e5382f535 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,700 - logger - WARNING - [Task 134] Movie 67b7399bcbb2ac9e5382f536 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,745 - logger - WARNING - [Task 135] Movie 67b7399bcbb2ac9e5382f537 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,791 - logger - WARNING - [Task 136] Movie 67b7399bcbb2ac9e5382f538 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,831 - logger - WARNING - [Task 137] Movie 67b7399bcbb2ac9e5382f539 has no IMDb ID. Skipping.
+2025-02-24 11:46:15,870 - logger - WARNING - [Task 138] Movie 67b739a2cbb2ac9e5382f53e has no IMDb ID. Skipping.
+2025-02-24 11:46:15,940 - logger - WARNING - [Task 139] Movie 67b739a2cbb2ac9e5382f53f has no IMDb ID. Skipping.
+2025-02-24 11:46:15,977 - logger - WARNING - [Task 140] Movie 67b739a2cbb2ac9e5382f540 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,015 - logger - WARNING - [Task 141] Movie 67b739a2cbb2ac9e5382f544 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,059 - logger - WARNING - [Task 142] Movie 67b739a2cbb2ac9e5382f545 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,101 - logger - WARNING - [Task 143] Movie 67b739a2cbb2ac9e5382f54b has no IMDb ID. Skipping.
+2025-02-24 11:46:16,142 - logger - WARNING - [Task 144] Movie 67b739a2cbb2ac9e5382f552 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,191 - logger - WARNING - [Task 145] Movie 67b739a2cbb2ac9e5382f553 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,230 - logger - WARNING - [Task 146] Movie 67b739a2cbb2ac9e5382f555 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,269 - logger - WARNING - [Task 147] Movie 67b739a2cbb2ac9e5382f556 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,318 - logger - WARNING - [Task 148] Movie 67b739a2cbb2ac9e5382f55b has no IMDb ID. Skipping.
+2025-02-24 11:46:16,363 - logger - WARNING - [Task 149] Movie 67b739a2cbb2ac9e5382f55e has no IMDb ID. Skipping.
+2025-02-24 11:46:16,403 - logger - WARNING - [Task 150] Movie 67b739a2cbb2ac9e5382f563 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,443 - logger - WARNING - [Task 151] Movie 67b739a3cbb2ac9e5382f56a has no IMDb ID. Skipping.
+2025-02-24 11:46:16,484 - logger - WARNING - [Task 152] Movie 67b739a3cbb2ac9e5382f56d has no IMDb ID. Skipping.
+2025-02-24 11:46:16,524 - logger - WARNING - [Task 153] Movie 67b739a3cbb2ac9e5382f56e has no IMDb ID. Skipping.
+2025-02-24 11:46:16,574 - logger - WARNING - [Task 154] Movie 67b739a3cbb2ac9e5382f56f has no IMDb ID. Skipping.
+2025-02-24 11:46:16,617 - logger - WARNING - [Task 155] Movie 67b739a3cbb2ac9e5382f575 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,658 - logger - WARNING - [Task 156] Movie 67b739a3cbb2ac9e5382f57d has no IMDb ID. Skipping.
+2025-02-24 11:46:16,699 - logger - WARNING - [Task 157] Movie 67b739a3cbb2ac9e5382f57e has no IMDb ID. Skipping.
+2025-02-24 11:46:16,743 - logger - WARNING - [Task 158] Movie 67b739a3cbb2ac9e5382f580 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,783 - logger - WARNING - [Task 159] Movie 67b739a3cbb2ac9e5382f581 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,827 - logger - WARNING - [Task 160] Movie 67b739a3cbb2ac9e5382f584 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,868 - logger - WARNING - [Task 161] Movie 67b739a3cbb2ac9e5382f585 has no IMDb ID. Skipping.
+2025-02-24 11:46:16,912 - logger - WARNING - [Task 162] Movie 67b739a3cbb2ac9e5382f58a has no IMDb ID. Skipping.
+2025-02-24 11:46:16,955 - logger - WARNING - [Task 163] Movie 67b739a3cbb2ac9e5382f58b has no IMDb ID. Skipping.
+2025-02-24 11:46:16,997 - logger - WARNING - [Task 164] Movie 67b739a3cbb2ac9e5382f58c has no IMDb ID. Skipping.
+2025-02-24 11:46:17,061 - logger - WARNING - [Task 165] Movie 67b739a3cbb2ac9e5382f58d has no IMDb ID. Skipping.
+2025-02-24 11:46:17,103 - logger - WARNING - [Task 166] Movie 67b739b7cbb2ac9e5382f593 has no IMDb ID. Skipping.
+2025-02-24 11:46:17,144 - logger - WARNING - [Task 167] Movie 67b739b7cbb2ac9e5382f594 has no IMDb ID. Skipping.
+2025-02-24 11:46:17,185 - logger - WARNING - [Task 168] Movie 67b739b7cbb2ac9e5382f596 has no IMDb ID. Skipping.
+2025-02-24 11:46:17,229 - logger - WARNING - [Task 169] Movie 67b739b7cbb2ac9e5382f597 has no IMDb ID. Skipping.
+2025-02-24 11:46:17,267 - logger - WARNING - [Task 170] Movie 67b739b7cbb2ac9e5382f598 has no IMDb ID. Skipping.
+2025-02-24 11:46:17,268 - logger - INFO - All movies have been processed.
+2025-02-24 11:46:17,273 - logger - ERROR - Unexpected error in main: object NoneType can't be used in 'await' expression

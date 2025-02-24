@@ -1,0 +1,7 @@
+.env
+.log
+Test/
+__pycache__/
+Data/title.basics.tsv.gz
+Data/__pycache__
+API_call/__pycache__
